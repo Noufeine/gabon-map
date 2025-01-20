@@ -1,0 +1,8217 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.62.4 2390de5a",
+    "osm3s": {
+      "timestamp_osm_base": "2025-01-20T19:44:19Z",
+      "timestamp_areas_base": "2025-01-20T16:03:05Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+  
+  {
+    "type": "node",
+    "id": 27565068,
+    "lat": 0.4086518,
+    "lon": 9.4418849,
+    "tags": {
+      "admin_level": "2",
+      "capital": "yes",
+      "capital_ISO3166-1": "yes",
+      "is_capital": "country",
+      "name": "Libreville",
+      "name:am": "ሊብረቪል",
+      "name:ar": "ليبرفيل",
+      "name:az": "Librevil",
+      "name:azb": "لیبرویل",
+      "name:be": "Лібрэвіль",
+      "name:bg": "Либревил",
+      "name:bo": "ལིབ་རེ་ཝིལ།",
+      "name:br": "Libreville",
+      "name:ckb": "لیبرێڤیل",
+      "name:cs": "Libreville",
+      "name:cv": "Либревиль",
+      "name:de": "Libreville",
+      "name:el": "Λιμπρβίλ",
+      "name:en": "Libreville",
+      "name:eo": "Librevilo",
+      "name:es": "Libreville",
+      "name:fa": "لیبرویل",
+      "name:fr": "Libreville",
+      "name:grc": "Ἐλευθερόπολις",
+      "name:he": "ליברוויל",
+      "name:hi": "लिबरेविले",
+      "name:ht": "Libvil",
+      "name:hu": "Libreville",
+      "name:hy": "Լիբրևիլ",
+      "name:is": "Libreville",
+      "name:it": "Libreville",
+      "name:ja": "リーブルヴィル",
+      "name:ka": "ლიბრევილი",
+      "name:ko": "리브르빌",
+      "name:ky": "Либревил",
+      "name:la": "Liberopolis",
+      "name:lt": "Librevilis",
+      "name:lv": "Librevila",
+      "name:mk": "Либрвил",
+      "name:mr": "लिब्रेव्हिल",
+      "name:mrj": "Либревиль",
+      "name:nl": "Libreville",
+      "name:no": "Libreville",
+      "name:nov": "Librevil",
+      "name:oc": "Liuravila",
+      "name:pl": "Libreville",
+      "name:pnb": "لبرول",
+      "name:pt": "Libreville",
+      "name:ru": "Либревиль",
+      "name:so": "Librefille",
+      "name:sr": "Либрвил",
+      "name:sv": "Libreville",
+      "name:ta": "லிப்ரவில்",
+      "name:tg": "Либревил",
+      "name:th": "ลีเบรอวิล",
+      "name:tr": "Libreville",
+      "name:udm": "Либревиль",
+      "name:uk": "Лібревіль",
+      "name:ur": "لبریویل",
+      "name:wo": "Libarwil",
+      "name:zh": "利伯维尔",
+      "name:zh-Hans": "利伯维尔",
+      "name:zh-Hant": "利伯維爾",
+      "place": "city",
+      "population": "850000",
+      "wikidata": "Q3825",
+      "wikipedia": "fr:Libreville"
+    }
+  },
+  {
+    "type": "node",
+    "id": 254528943,
+    "lat": -1.6343979,
+    "lon": 13.5894808,
+    "tags": {
+      "admin_level": "4",
+      "capital": "4",
+      "ele": "400",
+      "name": "Franceville",
+      "name:ar": "فرانسفيل",
+      "name:ja": "フランスヴィル",
+      "name:ko": "프랑스빌",
+      "name:lt": "Fransvilis",
+      "name:ru": "Франсвиль",
+      "name:uk": "Франсвіль",
+      "name:zh": "弗朗斯维尔",
+      "place": "city",
+      "population": "56000",
+      "website": "http://www.franceville.ga",
+      "wikidata": "Q459369",
+      "wikipedia": "fr:Franceville"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331139689,
+    "lat": 2.0786422,
+    "lon": 11.4944412,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Bitam",
+      "name:en": "Bitam",
+      "place": "city",
+      "wikidata": "Q1023124"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331139740,
+    "lat": 1.5997904,
+    "lon": 11.5751003,
+    "tags": {
+      "admin_level": "4",
+      "capital": "4",
+      "is_in": "Gabon",
+      "loc_name": "Nkoum Ekiegn",
+      "name": "Oyem",
+      "name:en": "Oyem",
+      "name:ru": "Оем",
+      "name:uk": "Оєм",
+      "place": "city",
+      "population": "35000",
+      "website": "http://www.oyem.ga/#",
+      "wikidata": "Q983886"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331142069,
+    "lat": 0.3913154,
+    "lon": 9.7588716,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Ntoum",
+      "place": "town"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331144234,
+    "lat": -0.6942603,
+    "lon": 10.2236482,
+    "tags": {
+      "admin_level": "4",
+      "alt_name": "Lémbaréni",
+      "capital": "4",
+      "is_in": "Moyen-Ogooué, Gabon",
+      "loc_name": "Nous voulons l'essayer, essayons",
+      "name": "Lambaréné",
+      "name:en": "Lambarene",
+      "place": "city",
+      "wikidata": "Q874197"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331151099,
+    "lat": -1.2164737,
+    "lon": 10.5913740,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Fougamou",
+      "place": "town",
+      "wikidata": "Q1106169"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331155527,
+    "lat": -1.8627018,
+    "lon": 11.0587130,
+    "tags": {
+      "admin_level": "4",
+      "capital": "4",
+      "is_in": "Ngounié, Gabon",
+      "name": "Mouila",
+      "name:ru": "Муила",
+      "place": "city",
+      "population": "22469",
+      "wikidata": "Q746670",
+      "wikipedia": "fr:Mouila"
+    }
+  },
+  {
+    "type": "node",
+    "id": 331157135,
+    "lat": -2.3962846,
+    "lon": 11.3580781,
+    "tags": {
+      "name": "Ndendé",
+      "place": "town",
+      "wikidata": "Q2591916"
+    }
+  },
+  {
+    "type": "node",
+    "id": 339582598,
+    "lat": -0.7151966,
+    "lon": 8.7787919,
+    "tags": {
+      "admin_level": "4",
+      "alt_name": "Île Mandji",
+      "alt_name:ar": "بورت جينتل",
+      "capital": "4",
+      "loc_name": "Ville des plages",
+      "name": "Port-Gentil",
+      "name:ar": "بورت جنتيل",
+      "name:en": "Port-Gentil",
+      "name:ko": "포르장티",
+      "name:ru": "Порт-Жантиль",
+      "name:uk": "Порт-Жантіль",
+      "place": "city",
+      "population": "136462"
+    }
+  },
+  {
+    "type": "node",
+    "id": 667654938,
+    "lat": 1.0174350,
+    "lon": 10.7965340,
+    "tags": {
+      "name": "Medouneu",
+      "place": "town",
+      "wikidata": "Q3304092"
+    }
+  },
+  {
+    "type": "node",
+    "id": 667664658,
+    "lat": 0.9613209,
+    "lon": 10.6846203,
+    "tags": {
+      "name": "Edoum",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 667673760,
+    "lat": 1.0055667,
+    "lon": 9.5842085,
+    "tags": {
+      "name": "Cocobeach",
+      "name:bg": "Кокобийч",
+      "name:es": "Cocobeach",
+      "name:fr": "Cocobeach",
+      "name:ru": "Кокобич",
+      "place": "town",
+      "wikidata": "Q491801",
+      "wikipedia": "fr:Cocobeach"
+    }
+  },
+  {
+    "type": "node",
+    "id": 925697533,
+    "lat": -0.0776964,
+    "lon": 10.9581210,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Alembé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 925697921,
+    "lat": -0.2786218,
+    "lon": 10.5183437,
+    "tags": {
+      "is_in": "Gabon, Moyen-Ogooué, Abanga-Bigne",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 925710565,
+    "lat": 0.7825965,
+    "lon": 11.5485892,
+    "tags": {
+      "is_in": "Gabon, Woleu-Ntem",
+      "name": "Mitzic",
+      "place": "town",
+      "wikidata": "Q3135733",
+      "wikipedia": "fr:Mitzic"
+    }
+  },
+  {
+    "type": "node",
+    "id": 925714106,
+    "lat": 1.4380117,
+    "lon": 11.6050185,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Bibassé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 925723766,
+    "lat": -0.1838081,
+    "lon": 10.7658311,
+    "tags": {
+      "is_in": "Gabon, Moyen-Ogooué",
+      "name": "Ndjolé",
+      "place": "city",
+      "wikidata": "Q1316415"
+    }
+  },
+  {
+    "type": "node",
+    "id": 925724571,
+    "lat": 0.3549002,
+    "lon": 11.4522100,
+    "tags": {
+      "is_in": "Gabon, Woleu-Ntem",
+      "name": "Lalara",
+      "name:en": "Lalara",
+      "place": "village",
+      "wikidata": "Q6480203"
+    }
+  },
+  {
+    "type": "node",
+    "id": 925725587,
+    "lat": -0.2513477,
+    "lon": 10.4148002,
+    "tags": {
+      "is_in": "Gabon, Moyen-Ogooué",
+      "name": "Bifoun",
+      "place": "town",
+      "wikidata": "Q4904779"
+    }
+  },
+  {
+    "type": "node",
+    "id": 926024447,
+    "lat": 0.1957203,
+    "lon": 10.0950357,
+    "tags": {
+      "is_in": "Gabon, Estuaire",
+      "name": "Kango",
+      "place": "town",
+      "wikidata": "Q3192655"
+    }
+  },
+  {
+    "type": "node",
+    "id": 926027458,
+    "lat": 2.1522607,
+    "lon": 12.1332191,
+    "tags": {
+      "name": "Minvoul",
+      "name:fr": "Minvoul",
+      "place": "town",
+      "wikidata": "Q1100799",
+      "wikipedia": "fr:Minvoul"
+    }
+  },
+  {
+    "type": "node",
+    "id": 926800039,
+    "lat": -2.2124790,
+    "lon": 11.4705600,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Lébamba",
+      "place": "town",
+      "wikidata": "Q15242173"
+    }
+  },
+  {
+    "type": "node",
+    "id": 926835172,
+    "lat": -1.0394823,
+    "lon": 10.6614468,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Sindara",
+      "place": "town",
+      "wikidata": "Q7522110"
+    }
+  },
+  {
+    "type": "node",
+    "id": 926860006,
+    "lat": 0.5619085,
+    "lon": 12.8525045,
+    "tags": {
+      "admin_level": "4",
+      "capital": "4",
+      "loc_name": "Cailloux",
+      "name": "Makokou",
+      "name:ru": "Макоку",
+      "place": "city",
+      "start_date": "Fondée en 1912 pour servir de poste militaire à un point stratégique du village de Makoko",
+      "wikidata": "Q1002583"
+    }
+  },
+  {
+    "type": "node",
+    "id": 927078063,
+    "lat": 1.0149805,
+    "lon": 13.9564561,
+    "tags": {
+      "alt_name": "Mécambo",
+      "alt_name:fr": "Mécambo",
+      "name": "Mékambo",
+      "name:fr": "Mékambo",
+      "place": "town",
+      "wikidata": "Q871846",
+      "wikipedia": "fr:Mékambo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 927113108,
+    "lat": 0.3092055,
+    "lon": 12.1835787,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Ovan",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1252235302,
+    "lat": 0.4003543,
+    "lon": 9.4413445,
+    "tags": {
+      "name": "Camp de police-Bessieux",
+      "place": "city_block"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1253870271,
+    "lat": 0.3208235,
+    "lon": 9.4952738,
+    "tags": {
+      "name": "Owendo",
+      "place": "city",
+      "wikidata": "Q2613788",
+      "wikipedia": "fr:Owendo"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2035490237,
+    "lat": -2.9170995,
+    "lon": 10.9955955,
+    "tags": {
+      "admin_level": "4",
+      "capital": "4",
+      "name": "Tchibanga",
+      "name:ru": "Чибанга",
+      "place": "city",
+      "wikidata": "Q690421"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082104,
+    "lat": -1.1726011,
+    "lon": 13.8752887,
+    "tags": {
+      "name": "Akiéni",
+      "place": "village",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q4701297",
+      "wikipedia": "en:Akiéni"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082107,
+    "lat": -1.6458412,
+    "lon": 13.8598186,
+    "tags": {
+      "name": "Bongoville",
+      "place": "village",
+      "population": "6000",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q730806",
+      "wikipedia": "fr:Bongoville"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082108,
+    "lat": -0.1015728,
+    "lon": 11.9481458,
+    "tags": {
+      "name": "Booué",
+      "name:fr": "Booué",
+      "place": "city",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "start_date": "1883",
+      "wikidata": "Q1052014",
+      "wikipedia": "fr:Booué"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082109,
+    "lat": -2.8274667,
+    "lon": 10.3146701,
+    "tags": {
+      "name": "Mbouda",
+      "place": "village",
+      "source": "ANPN"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082110,
+    "lat": -2.2249680,
+    "lon": 13.6151357,
+    "tags": {
+      "name": "Boumango",
+      "place": "village",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q2922148"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082113,
+    "lat": -2.7201331,
+    "lon": 10.0189421,
+    "tags": {
+      "name": "Gamba",
+      "place": "city",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q1492877",
+      "wikipedia": "en:Gamba, Gabon"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082114,
+    "lat": -1.9106047,
+    "lon": 9.3225734,
+    "tags": {
+      "name": "Ntchongorové",
+      "place": "village",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082115,
+    "lat": -1.1340007,
+    "lon": 12.4672747,
+    "tags": {
+      "admin_level": "4",
+      "alt_name": "Koula-Moutou",
+      "capital": "4",
+      "is_in": "Province de l’Ogooué-Lolo, Gabon",
+      "name": "Koulamoutou",
+      "name:ru": "Куламуту",
+      "place": "city",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q985614",
+      "wikipedia": "fr:Koulamoutou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082117,
+    "lat": -0.8102950,
+    "lon": 12.7310246,
+    "tags": {
+      "alt_name": "Mandji",
+      "name": "Lastoursville",
+      "old_name": "Madiville",
+      "place": "city",
+      "population": "11990",
+      "wikidata": "Q1818610",
+      "wikipedia": "fr:Lastoursville"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082119,
+    "lat": -1.5846470,
+    "lon": 14.2650802,
+    "tags": {
+      "alt_name": "Léconi",
+      "ele": "566",
+      "name": "Lékoni",
+      "place": "city",
+      "population": "5075",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q6350743",
+      "wikipedia": "fr:Lékoni"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082121,
+    "lat": -3.4316464,
+    "lon": 10.6545157,
+    "tags": {
+      "name": "Mayumba",
+      "place": "city",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082122,
+    "lat": 1.1144673,
+    "lon": 13.1107607,
+    "tags": {
+      "alt_name": "Mayibout",
+      "name": "Mayébout",
+      "place": "village",
+      "wikidata": "Q3302971",
+      "wikipedia": "fr:Mayibout"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082127,
+    "lat": -2.4451709,
+    "lon": 10.9239525,
+    "tags": {
+      "name": "Moabi",
+      "place": "town",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q3317546"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082128,
+    "lat": -1.8257303,
+    "lon": 13.0102425,
+    "tags": {
+      "ele": "800",
+      "name": "Bakoumba",
+      "place": "town",
+      "wikidata": "Q1115195",
+      "wikipedia": "fr:Bakoumba"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082130,
+    "lat": -1.3833120,
+    "lon": 13.1565077,
+    "tags": {
+      "ele": "400",
+      "is_in": "Gabon,Africa",
+      "name": "Mounana",
+      "place": "town",
+      "population": "6372",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "website": "http://mairiedemounana.over-blog.net/",
+      "wikidata": "Q1200140",
+      "wikipedia": "en:Mounana"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082132,
+    "lat": -1.6541583,
+    "lon": 9.6662698,
+    "tags": {
+      "name": "Ndougou",
+      "place": "village",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082133,
+    "lat": -1.4984100,
+    "lon": 13.7929000,
+    "tags": {
+      "name": "Ngouoni",
+      "place": "village",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082134,
+    "lat": -0.6554650,
+    "lon": 13.6827130,
+    "tags": {
+      "name": "Okondja",
+      "place": "city",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q4332646"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082135,
+    "lat": -1.5744332,
+    "lon": 9.2605955,
+    "tags": {
+      "addr:province": "OGOOUE MARITIME",
+      "alt_name": "Nandipo",
+      "description": "Omboue est en effet situé à l'embouchure de la lagune Nkomi, du nom de la première ethnie qui l'habitat, mais plus commune sous le nom de lagune du Fernan Vaz.\nLa ville d'Omboue sert de point ravitaillement pour tout la région.",
+      "name": "Omboué",
+      "place": "town",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg",
+      "wikidata": "Q2717524"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082138,
+    "lat": -1.6714439,
+    "lon": 12.6296494,
+    "tags": {
+      "name": "Pana",
+      "place": "village",
+      "wikidata": "Q30897875",
+      "wikipedia": "fr:Pana (Gabon)"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082139,
+    "lat": -2.5240413,
+    "lon": 9.7545155,
+    "tags": {
+      "addr:province": "Ogooué-Maritime",
+      "name": "Setté Cama",
+      "old_name": "Sept tombes",
+      "place": "village",
+      "population": "150",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082144,
+    "lat": -1.3472488,
+    "lon": 9.3454865,
+    "tags": {
+      "alt_name": "Eyéno",
+      "name": "Yéno",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082147,
+    "lat": -1.1393413,
+    "lon": 11.7864032,
+    "tags": {
+      "fixme": "verify location",
+      "place": "village",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178082151,
+    "lat": -1.6475937,
+    "lon": 11.6495251,
+    "tags": {
+      "fixme": "verify location",
+      "place": "village",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2178090546,
+    "lat": -1.5547640,
+    "lon": 13.2218993,
+    "tags": {
+      "ele": "450",
+      "is_in": "Gabon,Africa",
+      "name": "Moanda",
+      "place": "city",
+      "population": "39300",
+      "wikidata": "Q1015100",
+      "wikipedia": "en:Moanda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2511509409,
+    "lat": -0.0419057,
+    "lon": 9.3395721,
+    "tags": {
+      "description": "Nyonié est un village côtier du Gabon situé dans le département de Komo-Océan (province de l'Estuaire), à 70 km au sud de Libreville, entre la réserve de Wonga Wongué et le parc national de Pongara.",
+      "name": "Nyonié",
+      "place": "village",
+      "wikidata": "Q86672837",
+      "wikipedia": "fr:Nyonié"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2562335437,
+    "lat": -1.0187173,
+    "lon": 8.9005472,
+    "tags": {
+      "name": "Ozouri",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2583534323,
+    "lat": 0.3291854,
+    "lon": 9.3654242,
+    "tags": {
+      "inscription": "Station balnéaire",
+      "name": "Pointe Denis",
+      "name:en": "Point Denis",
+      "place": "village",
+      "population": "96"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2751567368,
+    "lat": 0.5124047,
+    "lon": 9.7372913,
+    "tags": {
+      "name": "Akok",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2751567369,
+    "lat": 0.7505082,
+    "lon": 9.6587812,
+    "tags": {
+      "name": "Bengole",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2751567373,
+    "lat": 0.4480947,
+    "lon": 9.7557944,
+    "tags": {
+      "name": "Mebba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2751567375,
+    "lat": 0.6155292,
+    "lon": 9.6762533,
+    "tags": {
+      "name": "No Ayong",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3013074953,
+    "lat": -1.7057965,
+    "lon": 10.3886503,
+    "tags": {
+      "name": "Mandji",
+      "place": "town",
+      "wikidata": "Q16508929"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3300964529,
+    "lat": -3.6796968,
+    "lon": 11.7594939,
+    "tags": {
+      "junction": "yes",
+      "name": "Cotivindou",
+      "place": "village",
+      "source_type": "GPS"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3300964548,
+    "lat": -3.3261596,
+    "lon": 11.7128896,
+    "tags": {
+      "name": "Dilemba",
+      "place": "village",
+      "source_type": "GPS"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3300965072,
+    "lat": -3.3811435,
+    "lon": 11.5923654,
+    "tags": {
+      "name": "Doumanga",
+      "place": "village",
+      "source_type": "GPS"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3450710257,
+    "lat": -1.8960733,
+    "lon": 11.9096726,
+    "tags": {
+      "alt_name": "M'Bigou",
+      "name": "Mbigou",
+      "place": "town",
+      "wikidata": "Q3303524",
+      "wikipedia": "fr:Mbigou"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3601427741,
+    "lat": -1.6153617,
+    "lon": 10.6903558,
+    "tags": {
+      "name": "Guidouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3601434595,
+    "lat": -1.7724517,
+    "lon": 10.9123542,
+    "tags": {
+      "name": "Elonga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3601890937,
+    "lat": -0.8795217,
+    "lon": 12.6647225,
+    "tags": {
+      "alt_name": "Micouyi",
+      "name": "Mikouyi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3601892360,
+    "lat": -0.8790993,
+    "lon": 12.7335041,
+    "tags": {
+      "name": "Poungui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3601977206,
+    "lat": -3.2188661,
+    "lon": 10.6339989,
+    "tags": {
+      "name": "Loubomo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3601998352,
+    "lat": -2.5579006,
+    "lon": 10.7375144,
+    "tags": {
+      "name": "Mourindi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602059225,
+    "lat": -1.0209150,
+    "lon": 10.6740182,
+    "tags": {
+      "name": "Samba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602066621,
+    "lat": -0.9679574,
+    "lon": 10.6324895,
+    "tags": {
+      "name": "Manga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602084492,
+    "lat": -0.1798575,
+    "lon": 10.7764625,
+    "tags": {
+      "name": "Bissone",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602159393,
+    "lat": -0.0628674,
+    "lon": 11.1597341,
+    "tags": {
+      "name": "Junkville",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602161392,
+    "lat": -0.1158199,
+    "lon": 11.4357011,
+    "tags": {
+      "name": "Ayem",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602168413,
+    "lat": -0.1009820,
+    "lon": 11.7750972,
+    "tags": {
+      "name": "Achouka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602190233,
+    "lat": -0.8497271,
+    "lon": 12.1414869,
+    "tags": {
+      "name": "Motodiene",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602255419,
+    "lat": -1.0149416,
+    "lon": 12.5311611,
+    "tags": {
+      "name": "Roungassa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602336674,
+    "lat": -1.1711984,
+    "lon": 13.5343473,
+    "tags": {
+      "name": "Olonga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602339828,
+    "lat": -1.4974378,
+    "lon": 13.5283821,
+    "tags": {
+      "name": "Mindili",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602398264,
+    "lat": -1.2674250,
+    "lon": 13.5332531,
+    "tags": {
+      "name": "Andjogo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602437996,
+    "lat": -0.9640553,
+    "lon": 13.8002830,
+    "tags": {
+      "name": "Lékori",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602449178,
+    "lat": -0.7749555,
+    "lon": 13.8296665,
+    "tags": {
+      "name": "Opoungou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602451363,
+    "lat": -0.7328886,
+    "lon": 13.7477921,
+    "tags": {
+      "name": "Choua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602470461,
+    "lat": -0.9396461,
+    "lon": 13.3604516,
+    "tags": {
+      "name": "Babili",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602473309,
+    "lat": -0.6360478,
+    "lon": 13.7685886,
+    "tags": {
+      "name": "Kopengoi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3602476247,
+    "lat": -0.8349452,
+    "lon": 13.3213128,
+    "tags": {
+      "name": "Likoko",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3613007265,
+    "lat": -2.2338462,
+    "lon": 11.9031875,
+    "tags": {
+      "name": "Yombi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616299454,
+    "lat": -2.3014492,
+    "lon": 11.3165374,
+    "tags": {
+      "name": "Fera",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616301221,
+    "lat": -2.1997326,
+    "lon": 11.6012378,
+    "tags": {
+      "name": "Moukanza",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616301222,
+    "lat": -1.9831995,
+    "lon": 11.0628199,
+    "tags": {
+      "name": "Mbengué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616303318,
+    "lat": -2.0485600,
+    "lon": 11.1386319,
+    "tags": {
+      "name": "Mboungou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616328847,
+    "lat": -2.2499057,
+    "lon": 11.4512058,
+    "tags": {
+      "ele": "455",
+      "name": "Makabana",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616337912,
+    "lat": -1.7016122,
+    "lon": 10.7737227,
+    "tags": {
+      "ele": "135",
+      "name": "Kokolo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616364165,
+    "lat": -2.0333347,
+    "lon": 11.0165592,
+    "tags": {
+      "name": "Moutassou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616370639,
+    "lat": -2.2336961,
+    "lon": 11.1169811,
+    "tags": {
+      "ele": "331",
+      "name": "Ibamba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616372572,
+    "lat": -2.4664445,
+    "lon": 11.5346332,
+    "tags": {
+      "ele": "606",
+      "name": "mouamba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616448776,
+    "lat": -2.6996666,
+    "lon": 11.5004726,
+    "tags": {
+      "ele": "718",
+      "name": "Dounguila",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616463030,
+    "lat": -1.9007187,
+    "lon": 11.3839145,
+    "tags": {
+      "ele": "426",
+      "name": "Nyanga Moubighou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616464353,
+    "lat": -2.1508443,
+    "lon": 10.6675716,
+    "tags": {
+      "name": "Yetsou II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616479711,
+    "lat": -2.4336871,
+    "lon": 10.9666057,
+    "tags": {
+      "name": "Iléka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616479712,
+    "lat": -2.3373254,
+    "lon": 10.5920802,
+    "tags": {
+      "name": "Doussala",
+      "place": "village",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616494863,
+    "lat": -2.3661976,
+    "lon": 10.1513000,
+    "tags": {
+      "name": "Diéla Vievi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616524088,
+    "lat": -2.1659398,
+    "lon": 10.2104373,
+    "tags": {
+      "name": "Bongo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616571421,
+    "lat": -1.9170174,
+    "lon": 11.1003299,
+    "tags": {
+      "ele": "198",
+      "name": "Malaba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616575413,
+    "lat": -2.1887899,
+    "lon": 10.6672728,
+    "tags": {
+      "name": "Guiétsou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616600262,
+    "lat": -2.1669690,
+    "lon": 11.2174030,
+    "tags": {
+      "name": "Nangha",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616739650,
+    "lat": -2.7010384,
+    "lon": 11.1665912,
+    "tags": {
+      "ele": "476",
+      "name": "Issibou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616742872,
+    "lat": -2.7000095,
+    "lon": 11.3827129,
+    "tags": {
+      "ele": "608",
+      "name": "Tono Sangana",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3616971465,
+    "lat": -3.3451871,
+    "lon": 11.6307528,
+    "tags": {
+      "name": "Kouri",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3617020731,
+    "lat": -1.6821271,
+    "lon": 11.4489434,
+    "tags": {
+      "name": "Kembélé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3617046129,
+    "lat": -1.6747500,
+    "lon": 11.4857401,
+    "tags": {
+      "name": "Yeno",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3617060217,
+    "lat": -1.6251588,
+    "lon": 11.6003701,
+    "tags": {
+      "name": "Mimongo",
+      "place": "town",
+      "wikidata": "Q3314639"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3618561132,
+    "lat": -2.7941674,
+    "lon": 10.0987875,
+    "tags": {
+      "name": "Tsogni",
+      "place": "village",
+      "wikidata": "Q998517"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3844304757,
+    "lat": 0.3883065,
+    "lon": 9.6235883,
+    "tags": {
+      "name": "Nkok",
+      "place": "village",
+      "wikidata": "Q7042594"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3887743942,
+    "lat": -2.2974129,
+    "lon": 13.4489197,
+    "tags": {
+      "description": "Société Industrielle d'Agriculture et d'Elevage de Boumango (SIAEB)",
+      "name": "Mvoumou (SIAEB)",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4040662091,
+    "lat": 0.4317305,
+    "lon": 9.4238050,
+    "tags": {
+      "name": "Kalikak",
+      "place": "city_block"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4216958053,
+    "lat": -1.5569235,
+    "lon": 13.7772073,
+    "tags": {
+      "name": "Eyouga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4861855742,
+    "lat": 0.3638137,
+    "lon": 9.6742652,
+    "tags": {
+      "alt_name": "N'Koltang",
+      "name": "Nkoltang",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4866498043,
+    "lat": -0.1440344,
+    "lon": 10.5198048,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4866556660,
+    "lat": -0.0177429,
+    "lon": 10.3927231,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4866796403,
+    "lat": -0.1952215,
+    "lon": 12.2020340,
+    "tags": {
+      "name": "Ivindo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4867037948,
+    "lat": -0.8434786,
+    "lon": 12.9611448,
+    "tags": {
+      "name": "Doumé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4890679003,
+    "lat": -2.2391480,
+    "lon": 13.4789221,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4890679421,
+    "lat": -2.2411516,
+    "lon": 13.5806429,
+    "tags": {
+      "name": "Doumaye",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4986576600,
+    "lat": -0.8075971,
+    "lon": 12.7441621,
+    "tags": {
+      "name": "Pahon",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4986576602,
+    "lat": -0.8228734,
+    "lon": 12.7024913,
+    "tags": {
+      "name": "Bamboro",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4987046415,
+    "lat": 0.1998690,
+    "lon": 9.7322961,
+    "tags": {
+      "name": "Donguila",
+      "place": "village",
+      "wikidata": "Q15071573",
+      "wikipedia": "fr:Donguila"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4990916745,
+    "lat": -1.6141973,
+    "lon": 13.6733007,
+    "tags": {
+      "name": "Mbouma Oyali",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4995306338,
+    "lat": -1.6709134,
+    "lon": 13.3261424,
+    "tags": {
+      "name": "Moyabi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4995375968,
+    "lat": -1.7273276,
+    "lon": 13.3777428,
+    "tags": {
+      "name": "Ouéllé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4995525652,
+    "lat": 0.3957138,
+    "lon": 9.6083674,
+    "tags": {
+      "name": "Essassa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4995554287,
+    "lat": 1.0938564,
+    "lon": 13.1991935,
+    "tags": {
+      "name": "Bélinga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4996513443,
+    "lat": -1.6576957,
+    "lon": 13.4226859,
+    "tags": {
+      "name": "M'Vengué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5156826217,
+    "lat": -3.7840103,
+    "lon": 11.1770868,
+    "tags": {
+      "name": "Ndindi",
+      "place": "village",
+      "wikidata": "Q15261320",
+      "wikipedia": "fr:Ndindi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157553366,
+    "lat": -3.7963203,
+    "lon": 11.1307826,
+    "tags": {
+      "name": "Kala Boubote",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157557275,
+    "lat": -3.7102756,
+    "lon": 11.0982307,
+    "tags": {
+      "name": "Kayes",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157597702,
+    "lat": -3.6171934,
+    "lon": 10.9158077,
+    "tags": {
+      "name": "Malembé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157598159,
+    "lat": -3.5310716,
+    "lon": 10.7926237,
+    "tags": {
+      "name": "Mambi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157600984,
+    "lat": -3.0865672,
+    "lon": 10.7210724,
+    "tags": {
+      "name": "Malounga I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157601002,
+    "lat": -3.1494140,
+    "lon": 10.6764548,
+    "tags": {
+      "name": "Mivembe",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157603172,
+    "lat": -3.0316317,
+    "lon": 10.8426335,
+    "tags": {
+      "name": "Milolo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157604846,
+    "lat": -3.0359982,
+    "lon": 10.8789611,
+    "tags": {
+      "name": "Dousseoussou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157605495,
+    "lat": -3.0787960,
+    "lon": 10.8319525,
+    "tags": {
+      "name": "Tono",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5157618944,
+    "lat": -2.4775597,
+    "lon": 10.8615059,
+    "tags": {
+      "name": "Mocabe",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158493391,
+    "lat": -2.1862753,
+    "lon": 10.8857439,
+    "tags": {
+      "name": "Mingola",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158493393,
+    "lat": -2.1858845,
+    "lon": 10.7376691,
+    "tags": {
+      "name": "Dibotsa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158498295,
+    "lat": -2.6690283,
+    "lon": 10.8186965,
+    "tags": {
+      "name": "Loango",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158498910,
+    "lat": -2.4686354,
+    "lon": 10.6894887,
+    "tags": {
+      "name": "Boughoulou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158499466,
+    "lat": -2.6045397,
+    "lon": 10.7725069,
+    "tags": {
+      "name": "Moukoualou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158499758,
+    "lat": -2.7230462,
+    "lon": 10.6479199,
+    "tags": {
+      "name": "Dighoudou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158500500,
+    "lat": -1.0574581,
+    "lon": 10.9932198,
+    "tags": {
+      "description": "Activités: \n- Visite de la localité\n- Activités culturelles\n- Découverte de la colonie pygmées",
+      "name": "Ikobey",
+      "place": "village",
+      "source": "AGATOUR",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158502765,
+    "lat": -0.5405234,
+    "lon": 9.1981271,
+    "tags": {
+      "name": "Gongoué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158503725,
+    "lat": -0.8741480,
+    "lon": 9.1471560,
+    "tags": {
+      "name": "Mbilapé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158613163,
+    "lat": -2.9850260,
+    "lon": 10.3092464,
+    "tags": {
+      "name": "Mougagara",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158646385,
+    "lat": -2.9680830,
+    "lon": 10.3059390,
+    "tags": {
+      "name": "Mayonami",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158656720,
+    "lat": 0.5963184,
+    "lon": 10.2614433,
+    "tags": {
+      "name": "Mela",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158656741,
+    "lat": 0.3872439,
+    "lon": 10.2198546,
+    "tags": {
+      "name": "Andok Foula",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158657042,
+    "lat": 0.6234713,
+    "lon": 10.4032999,
+    "tags": {
+      "name": "Tchimbélé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158657163,
+    "lat": 0.6481822,
+    "lon": 10.2682668,
+    "tags": {
+      "name": "Song",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158657361,
+    "lat": 0.4332201,
+    "lon": 10.1273393,
+    "tags": {
+      "name": "Engong Kouame",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158657679,
+    "lat": 0.4489692,
+    "lon": 10.2813201,
+    "tags": {
+      "name": "Kinguélé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158659411,
+    "lat": -1.8505445,
+    "lon": 9.3825468,
+    "tags": {
+      "name": "Idjembo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158660021,
+    "lat": -1.9568258,
+    "lon": 9.4849199,
+    "tags": {
+      "alt_name": "Yombet",
+      "name": "Yombé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158668269,
+    "lat": 0.8137846,
+    "lon": 11.5031251,
+    "tags": {
+      "name": "Doum",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158675381,
+    "lat": 0.8200453,
+    "lon": 11.4412400,
+    "tags": {
+      "name": "Essong",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158677376,
+    "lat": 0.8142629,
+    "lon": 11.4045017,
+    "tags": {
+      "name": "Egneng Melen",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158677997,
+    "lat": 0.9888653,
+    "lon": 11.2581846,
+    "tags": {
+      "name": "Sam",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5158680735,
+    "lat": 0.9449535,
+    "lon": 11.5253482,
+    "tags": {
+      "name": "Eyinane",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183227844,
+    "lat": 0.2171137,
+    "lon": 9.7567011,
+    "tags": {
+      "name": "Oubendzi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183229365,
+    "lat": 0.3286868,
+    "lon": 9.7581118,
+    "tags": {
+      "name": "Massica",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183231629,
+    "lat": 0.2273268,
+    "lon": 9.7731114,
+    "tags": {
+      "name": "Elong Eko",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183241521,
+    "lat": 0.3063760,
+    "lon": 9.7733411,
+    "tags": {
+      "name": "Nzamaligue",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183269321,
+    "lat": 0.1246590,
+    "lon": 10.1471826,
+    "tags": {
+      "name": "Kafele",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183283991,
+    "lat": 0.2639931,
+    "lon": 10.0749654,
+    "tags": {
+      "name": "Abela",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5183284662,
+    "lat": 0.2787315,
+    "lon": 10.0630283,
+    "tags": {
+      "name": "Mfang",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5233556246,
+    "lat": 0.4519227,
+    "lon": 13.0266429,
+    "tags": {
+      "name": "Ntsiété",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5240167081,
+    "lat": -0.9829116,
+    "lon": 10.4894140,
+    "tags": {
+      "name": "Kénibéi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5639697663,
+    "lat": -2.2060491,
+    "lon": 11.5252536,
+    "tags": {
+      "is_in": "Gabon",
+      "name": "Moudiapoula",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5652124676,
+    "lat": 0.2164619,
+    "lon": 11.9346111,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5652185744,
+    "lat": 0.2122465,
+    "lon": 11.8669170,
+    "tags": {
+      "name": "Koumameyong",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5664565673,
+    "lat": -0.8356199,
+    "lon": 9.9849976,
+    "tags": {
+      "name": "Ngomo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5664614705,
+    "lat": -1.0075467,
+    "lon": 10.0960064,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5664614715,
+    "lat": -0.9365321,
+    "lon": 10.0487137,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5664619126,
+    "lat": -0.9212454,
+    "lon": 10.0457740,
+    "tags": {
+      "name": "Nombedouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5681276201,
+    "lat": -1.4079353,
+    "lon": 10.6256295,
+    "tags": {
+      "name": "Yombi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5686475301,
+    "lat": -1.5543753,
+    "lon": 13.2289362,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5693793637,
+    "lat": -1.5489888,
+    "lon": 10.6855368,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5695509071,
+    "lat": -2.2387500,
+    "lon": 11.4621183,
+    "tags": {
+      "name": "Bongolo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860100786,
+    "lat": -1.7199482,
+    "lon": 9.8367671,
+    "tags": {
+      "name": "Dianongo",
+      "name:fr": "Dianongo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860100907,
+    "lat": -1.9143467,
+    "lon": 9.4659195,
+    "tags": {
+      "name": "Idoupi",
+      "name:fr": "Idoupi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860100908,
+    "lat": -1.9319930,
+    "lon": 9.4745312,
+    "tags": {
+      "name": "L'Ile Iloupi 2",
+      "name:fr": "L'Ile Iloupi 2",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860100909,
+    "lat": -1.8625948,
+    "lon": 9.5823386,
+    "tags": {
+      "name": "Rabi rive gauche (Banane)",
+      "name:fr": "Rabi rive gauche (Banane)",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860100990,
+    "lat": -1.7730501,
+    "lon": 9.3704673,
+    "tags": {
+      "name": "Mpivié",
+      "name:fr": "Mpivié",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860100991,
+    "lat": -2.0422297,
+    "lon": 9.5377958,
+    "tags": {
+      "name": "Bonne Terre",
+      "name:fr": "Bonne Terre",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860100994,
+    "lat": -1.6505006,
+    "lon": 9.5571646,
+    "tags": {
+      "name": "Vedaréné",
+      "name:fr": "Vedaréné",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860101300,
+    "lat": -2.0776959,
+    "lon": 9.5441338,
+    "tags": {
+      "name": "Yatouga",
+      "name:fr": "Yatouga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860101304,
+    "lat": -1.8484597,
+    "lon": 9.5718097,
+    "tags": {
+      "name": "Rabi Mitsogo",
+      "name:fr": "Rabi Mitsogo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5860102686,
+    "lat": -1.9148225,
+    "lon": 9.3414691,
+    "tags": {
+      "name": "Chez le Canton",
+      "name:fr": "Chez le Canton",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6128134975,
+    "lat": -0.4388517,
+    "lon": 10.3886477,
+    "tags": {
+      "name": "Bindo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6128260148,
+    "lat": -0.4720205,
+    "lon": 10.4081511,
+    "tags": {
+      "name": "Makouké",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6128535859,
+    "lat": -0.0815888,
+    "lon": 11.1245051,
+    "tags": {
+      "name": "Otoumbi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6128883497,
+    "lat": 1.6932081,
+    "lon": 11.6442222,
+    "tags": {
+      "name": "Assok Ngomo",
+      "name:en": "Assok Ngomo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6129012404,
+    "lat": 1.8215681,
+    "lon": 11.7948487,
+    "tags": {
+      "name": "Bolossoville",
+      "name:en": "Bolossoville",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6140117330,
+    "lat": 1.6415577,
+    "lon": 11.6083970,
+    "tags": {
+      "name": "Akok",
+      "name:en": "Akok",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6142218117,
+    "lat": 1.7571378,
+    "lon": 11.6260031,
+    "tags": {
+      "name": "Medoumou",
+      "name:en": "Medoumou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6142218145,
+    "lat": 1.8168355,
+    "lon": 11.6176230,
+    "tags": {
+      "name": "Koumassi",
+      "name:en": "Koumassi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6142218168,
+    "lat": 1.8414804,
+    "lon": 11.6447674,
+    "tags": {
+      "name": "Konoville les Deux Eglises",
+      "name:en": "Konoville the Two Churches",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6142289972,
+    "lat": 1.8768821,
+    "lon": 11.6337157,
+    "tags": {
+      "name": "Awoua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6240244342,
+    "lat": 0.8658503,
+    "lon": 9.8444888,
+    "tags": {
+      "name": "Aboune",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6530387084,
+    "lat": -0.7679165,
+    "lon": 13.2023500,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6530412786,
+    "lat": -0.7446584,
+    "lon": 13.0286377,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6531621288,
+    "lat": 1.9057990,
+    "lon": 11.6057791,
+    "tags": {
+      "name": "Assok Seng",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6531621289,
+    "lat": 2.0034714,
+    "lon": 11.5274063,
+    "tags": {
+      "name": "Tchimazok 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6531637785,
+    "lat": 1.8902930,
+    "lon": 11.6236631,
+    "tags": {
+      "name": "Akom",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6531638385,
+    "lat": 1.9546324,
+    "lon": 11.5701647,
+    "tags": {
+      "name": "Tchimazone",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6533435591,
+    "lat": 2.2579868,
+    "lon": 11.4840292,
+    "tags": {
+      "name": "Ewong",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6533435592,
+    "lat": 2.2738877,
+    "lon": 11.4731970,
+    "tags": {
+      "name": "Melep",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6533626086,
+    "lat": 2.2760068,
+    "lon": 11.5631290,
+    "tags": {
+      "name": "Major NDO",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6533626186,
+    "lat": 2.2654509,
+    "lon": 11.5444376,
+    "tags": {
+      "name": "Nkonk Eve",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6534999188,
+    "lat": 1.7203500,
+    "lon": 11.6491609,
+    "tags": {
+      "name": "Akim Assi",
+      "name:en": "Akim Assi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6540349317,
+    "lat": -1.5783262,
+    "lon": 9.9929238,
+    "tags": {
+      "name": "Tsika",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6542714044,
+    "lat": -2.0586842,
+    "lon": 11.0363031,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6542714045,
+    "lat": -2.1928891,
+    "lon": 11.2171537,
+    "tags": {
+      "fixme": "Nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6543443555,
+    "lat": -1.8696720,
+    "lon": 9.2857969,
+    "tags": {
+      "name": "Kengué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6543443821,
+    "lat": -2.0102893,
+    "lon": 9.5135271,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6543443910,
+    "lat": -2.0698502,
+    "lon": 9.5398450,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6543653097,
+    "lat": -2.4663714,
+    "lon": 9.8812419,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6543653914,
+    "lat": -2.5586632,
+    "lon": 9.8786187,
+    "tags": {
+      "name": "Mougambi I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6543654626,
+    "lat": -2.5006579,
+    "lon": 9.8436542,
+    "tags": {
+      "name": "Pitonga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6544985498,
+    "lat": -1.6760228,
+    "lon": 10.7423048,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6547839681,
+    "lat": -1.4172170,
+    "lon": 12.0355580,
+    "tags": {
+      "name": "Malongo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552541558,
+    "lat": 1.8258472,
+    "lon": 11.5826029,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552545707,
+    "lat": 1.8449138,
+    "lon": 11.5667961,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552545721,
+    "lat": 1.8718662,
+    "lon": 11.5521642,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552545769,
+    "lat": 1.8512575,
+    "lon": 11.5349834,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552545839,
+    "lat": 1.8598314,
+    "lon": 11.5082913,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552546026,
+    "lat": 1.8127352,
+    "lon": 11.4868533,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552546079,
+    "lat": 1.7774404,
+    "lon": 11.5140041,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552546204,
+    "lat": 1.6503029,
+    "lon": 11.5624892,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552718660,
+    "lat": 1.5893419,
+    "lon": 11.3637040,
+    "tags": {
+      "name": "Abam Eba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6552718787,
+    "lat": 1.6206873,
+    "lon": 11.4649599,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6553024890,
+    "lat": -0.7786648,
+    "lon": 11.9180203,
+    "tags": {
+      "name": "Gongué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6554805321,
+    "lat": -0.2933287,
+    "lon": 11.7549300,
+    "tags": {
+      "name": "Mikongo I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555011261,
+    "lat": -0.6539553,
+    "lon": 14.4338708,
+    "tags": {
+      "name": "Otsiami",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555011287,
+    "lat": -0.7596737,
+    "lon": 14.3057247,
+    "tags": {
+      "name": "Onga",
+      "place": "village",
+      "wikidata": "Q16509811",
+      "wikipedia": "fr:Onga (Gabon)"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555011322,
+    "lat": -0.8547932,
+    "lon": 14.2692271,
+    "tags": {
+      "name": "Oloua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555011336,
+    "lat": -0.8513378,
+    "lon": 14.3497557,
+    "tags": {
+      "name": "Mboui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555011343,
+    "lat": -1.0810417,
+    "lon": 14.3721089,
+    "tags": {
+      "name": "Ossouele",
+      "place": "village",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555011539,
+    "lat": -0.8989107,
+    "lon": 14.2257713,
+    "tags": {
+      "name": "Ayogo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555663714,
+    "lat": -1.0317055,
+    "lon": 11.0536689,
+    "tags": {
+      "name": "Nyoye 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555663895,
+    "lat": -1.0378275,
+    "lon": 11.1560014,
+    "tags": {
+      "name": "Divindè",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555663932,
+    "lat": -1.0359832,
+    "lon": 11.1846222,
+    "tags": {
+      "name": "Nioyè 2",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555764009,
+    "lat": -0.8626882,
+    "lon": 10.5929397,
+    "tags": {
+      "name": "Lékita",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6555846867,
+    "lat": 0.5255012,
+    "lon": 12.8270915,
+    "tags": {
+      "name": "Loa Loa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6557098305,
+    "lat": -0.1067508,
+    "lon": 11.6110615,
+    "tags": {
+      "name": "La Lopé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6557186473,
+    "lat": -0.7622450,
+    "lon": 11.2176375,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6557934075,
+    "lat": 0.2395673,
+    "lon": 11.2515470,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558457483,
+    "lat": -1.0155306,
+    "lon": 10.2294072,
+    "tags": {
+      "name": "Allonah",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558522384,
+    "lat": -0.9905668,
+    "lon": 10.2433404,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558535320,
+    "lat": -1.0215064,
+    "lon": 10.1473932,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558535333,
+    "lat": -0.9960340,
+    "lon": 10.1211713,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558539877,
+    "lat": -1.1529284,
+    "lon": 10.0203134,
+    "tags": {
+      "name": "Dakar",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558595691,
+    "lat": -1.5846246,
+    "lon": 10.1470416,
+    "tags": {
+      "name": "Tsinginié Tsingi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558595701,
+    "lat": -1.5725205,
+    "lon": 9.9704679,
+    "tags": {
+      "name": "Omengo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558650287,
+    "lat": -1.6044468,
+    "lon": 9.4937563,
+    "tags": {
+      "name": "Kongo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6558663608,
+    "lat": -0.7767098,
+    "lon": 10.1935345,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6562637107,
+    "lat": -1.4484687,
+    "lon": 12.3642848,
+    "tags": {
+      "name": "Midouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6562637168,
+    "lat": -1.4563284,
+    "lon": 12.3632218,
+    "tags": {
+      "name": "Nzenzélé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6562637181,
+    "lat": -1.4607947,
+    "lon": 12.3528930,
+    "tags": {
+      "name": "Nzambi II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6562657496,
+    "lat": -1.4870005,
+    "lon": 12.3339322,
+    "tags": {
+      "name": "Nzambi I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6562657541,
+    "lat": -1.4174856,
+    "lon": 12.3802446,
+    "tags": {
+      "name": "Mbigou-Moréné",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6562657542,
+    "lat": -1.4214923,
+    "lon": 12.3750169,
+    "tags": {
+      "name": "Boundzi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6562681369,
+    "lat": -1.1044815,
+    "lon": 12.4197413,
+    "tags": {
+      "name": "Ngoungui I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6564348004,
+    "lat": -1.7618054,
+    "lon": 13.5447515,
+    "tags": {
+      "name": "Poubara",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6564348105,
+    "lat": -1.7326561,
+    "lon": 13.6160206,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6570678865,
+    "lat": -1.6032126,
+    "lon": 13.7683743,
+    "tags": {
+      "name": "Kelle",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6570678936,
+    "lat": -1.6323057,
+    "lon": 13.7959635,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6583584357,
+    "lat": 0.7152705,
+    "lon": 10.3596866,
+    "tags": {
+      "name": "Assok",
+      "place": "village",
+      "source": "https://www.openstreetmap.org/note/1274867"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6583621577,
+    "lat": 0.3414592,
+    "lon": 10.1874199,
+    "tags": {
+      "name": "Alen Komo",
+      "place": "village",
+      "source": "Note nº 1752804"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6585020081,
+    "lat": 0.4048197,
+    "lon": 13.0687631,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6585024134,
+    "lat": 0.3694235,
+    "lon": 13.1038302,
+    "tags": {
+      "name": "Ekobakoba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6585381377,
+    "lat": -0.8186252,
+    "lon": 10.1773846,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6585382210,
+    "lat": -0.7856065,
+    "lon": 10.1263824,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6724800280,
+    "lat": 0.1740054,
+    "lon": 9.8111558,
+    "tags": {
+      "name": "N'Gava",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6724967315,
+    "lat": -0.1987352,
+    "lon": 9.9601096,
+    "tags": {
+      "name": "Acondjo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6727132929,
+    "lat": -1.6049151,
+    "lon": 10.1373392,
+    "tags": {
+      "name": "Obindji",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6738443361,
+    "lat": 0.0186038,
+    "lon": 9.8083341,
+    "tags": {
+      "name": "Tchintchoua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6838086475,
+    "lat": -1.4582289,
+    "lon": 12.6449716,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6838120864,
+    "lat": -1.8272484,
+    "lon": 12.6594426,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6838139486,
+    "lat": -1.7844476,
+    "lon": 12.6243348,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6838139501,
+    "lat": -1.7153751,
+    "lon": 12.6364801,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7008849705,
+    "lat": 0.7670299,
+    "lon": 11.5379673,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7008849911,
+    "lat": 0.5742353,
+    "lon": 11.4838376,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021265946,
+    "lat": -0.8277157,
+    "lon": 9.9903676,
+    "tags": {
+      "name": "Oronga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021265957,
+    "lat": -0.8238175,
+    "lon": 9.9820661,
+    "tags": {
+      "name": "Isoloué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021655071,
+    "lat": -0.8010183,
+    "lon": 9.6779425,
+    "tags": {
+      "name": "Oyingo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021655072,
+    "lat": -0.8152406,
+    "lon": 9.6490055,
+    "tags": {
+      "name": "Alégo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021663798,
+    "lat": -0.5081432,
+    "lon": 9.9727321,
+    "tags": {
+      "name": "Issac",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021663802,
+    "lat": -0.5063301,
+    "lon": 10.0048971,
+    "tags": {
+      "name": "Etouk",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021663803,
+    "lat": -0.5726421,
+    "lon": 10.0030035,
+    "tags": {
+      "name": "Bonne Ville",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021686037,
+    "lat": -1.7104588,
+    "lon": 9.8779750,
+    "tags": {
+      "name": "Azendjé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7022332090,
+    "lat": -0.6669484,
+    "lon": 9.8202431,
+    "tags": {
+      "name": "Ndzek",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023269648,
+    "lat": 0.9232663,
+    "lon": 9.9456431,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023269692,
+    "lat": 0.9245227,
+    "lon": 9.9420315,
+    "tags": {
+      "name": "Ekorodo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023287423,
+    "lat": 0.9457630,
+    "lon": 9.9041963,
+    "tags": {
+      "name": "Essoua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023330718,
+    "lat": 0.5753618,
+    "lon": 9.6973550,
+    "tags": {
+      "name": "Nzog Bour",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023719266,
+    "lat": 0.5437467,
+    "lon": 9.3789131,
+    "tags": {
+      "name": "Malibé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023723033,
+    "lat": 0.4444912,
+    "lon": 9.5223999,
+    "tags": {
+      "name": "Bambou Chiné",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023758664,
+    "lat": -1.0888656,
+    "lon": 10.0175075,
+    "tags": {
+      "name": "Achouka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023758681,
+    "lat": -1.1152176,
+    "lon": 10.0218326,
+    "tags": {
+      "name": "Mbangi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023758683,
+    "lat": -1.1577772,
+    "lon": 9.9980092,
+    "tags": {
+      "name": "Odimba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7023800330,
+    "lat": -1.6920039,
+    "lon": 10.9552856,
+    "tags": {
+      "name": "Saint-Martin",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7031983699,
+    "lat": -0.7998811,
+    "lon": 12.5813546,
+    "tags": {
+      "name": "Boundji",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7035758300,
+    "lat": -1.2154967,
+    "lon": 13.2944870,
+    "tags": {
+      "name": "Mboungou Badouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7099988419,
+    "lat": -1.3527430,
+    "lon": 13.7716601,
+    "tags": {
+      "name": "Oyou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7099988426,
+    "lat": -1.4325366,
+    "lon": 13.7776762,
+    "tags": {
+      "name": "Assiami",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7099988434,
+    "lat": -1.5646419,
+    "lon": 13.7751425,
+    "tags": {
+      "name": "Ondili",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7150372885,
+    "lat": -0.9755853,
+    "lon": 9.0473311,
+    "tags": {
+      "name": "Ngola",
+      "place": "village",
+      "tourism": "camp_site"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7152431186,
+    "lat": -0.9708576,
+    "lon": 10.1329115,
+    "tags": {
+      "name": "Oguewa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7429882905,
+    "lat": -2.2517893,
+    "lon": 11.7065676,
+    "tags": {
+      "name": "Nzenzélé",
+      "place": "town"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7429882906,
+    "lat": -2.4554115,
+    "lon": 12.1669849,
+    "tags": {
+      "name": "Malinga",
+      "place": "town"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7430129242,
+    "lat": -2.3561681,
+    "lon": 11.7517194,
+    "tags": {
+      "name": "Lékindou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7430129243,
+    "lat": -2.3634012,
+    "lon": 11.8819353,
+    "tags": {
+      "name": "Rébé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7430602802,
+    "lat": -2.8270085,
+    "lon": 11.5299981,
+    "tags": {
+      "name": "Mabanda",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7460673544,
+    "lat": -1.7919662,
+    "lon": 14.0651542,
+    "tags": {
+      "name": "Ekouyi-Mbouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7460673756,
+    "lat": -1.7756146,
+    "lon": 14.1318577,
+    "tags": {
+      "name": "Léwou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7460673757,
+    "lat": -1.7367291,
+    "lon": 14.1763499,
+    "tags": {
+      "name": "Saye",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7460787047,
+    "lat": -1.2947669,
+    "lon": 14.2296194,
+    "tags": {
+      "name": "Yia",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7460787054,
+    "lat": -1.3561503,
+    "lon": 14.1613464,
+    "tags": {
+      "name": "Abila",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7649007549,
+    "lat": 0.1436965,
+    "lon": 9.5312056,
+    "tags": {
+      "name": "Mbomo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7649126861,
+    "lat": 0.2641376,
+    "lon": 9.5589262,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7660956010,
+    "lat": -1.5417837,
+    "lon": 9.4867560,
+    "tags": {
+      "alt_name": "Assévé",
+      "name": "Asséwé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7660956011,
+    "lat": -1.8085572,
+    "lon": 9.2997659,
+    "tags": {
+      "alt_name": "Anyambiè",
+      "name": "Aniambie",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7660956013,
+    "lat": -1.6741581,
+    "lon": 9.2958603,
+    "tags": {
+      "name": "Odjingo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7661231787,
+    "lat": -1.6428472,
+    "lon": 9.4021802,
+    "tags": {
+      "alt_name": "Mission Sainte-Anne",
+      "name": "Odimba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7868886197,
+    "lat": -2.6576881,
+    "lon": 11.5878712,
+    "tags": {
+      "name": "Doussala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7893347765,
+    "lat": 0.1613161,
+    "lon": 13.6397318,
+    "tags": {
+      "name": "Bakwaka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7911146288,
+    "lat": -1.8187968,
+    "lon": 13.6040014,
+    "tags": {
+      "name": "Moupia",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7911325872,
+    "lat": -2.1530727,
+    "lon": 13.6395494,
+    "tags": {
+      "name": "Mboua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7914822389,
+    "lat": -1.6025649,
+    "lon": 12.3046013,
+    "tags": {
+      "name": "Popa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8006997846,
+    "lat": 0.6620821,
+    "lon": 14.3627916,
+    "tags": {
+      "name": "Olloba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8006997847,
+    "lat": 0.6774635,
+    "lon": 14.2981692,
+    "tags": {
+      "name": "Ekata",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8006997860,
+    "lat": 1.3746958,
+    "lon": 14.0884119,
+    "tags": {
+      "name": "Mazingo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8023486923,
+    "lat": -0.6584958,
+    "lon": 14.1375699,
+    "tags": {
+      "name": "Aboumi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8023486949,
+    "lat": -0.0697011,
+    "lon": 9.4342305,
+    "tags": {
+      "description": "Ndzomoe est une ville du Gabon, chef-lieu du dépatement du Komo-Océan dans la province de l'Estuaire.",
+      "name": "Ndzomoe",
+      "place": "town",
+      "wikipedia": "fr:Ndzomoe"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8023487210,
+    "lat": -1.2168129,
+    "lon": 11.8166152,
+    "tags": {
+      "name": "Iboundji",
+      "place": "town"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8085633684,
+    "lat": -2.4061266,
+    "lon": 10.1423645,
+    "tags": {
+      "name": "Ingouaka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8085633697,
+    "lat": -2.3871184,
+    "lon": 10.1539490,
+    "tags": {
+      "name": "Simbakouani",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086311243,
+    "lat": -0.9919847,
+    "lon": 12.1923303,
+    "tags": {
+      "name": "Moutouyeni",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086311251,
+    "lat": -0.9987559,
+    "lon": 12.1954040,
+    "tags": {
+      "name": "Baniaty",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086311265,
+    "lat": -1.0736769,
+    "lon": 12.3181435,
+    "tags": {
+      "name": "Mbegho",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086311295,
+    "lat": -1.0911699,
+    "lon": 12.3723054,
+    "tags": {
+      "name": "Pangalongo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086311296,
+    "lat": -1.6710775,
+    "lon": 14.4201734,
+    "tags": {
+      "name": "Kabala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086311298,
+    "lat": -1.6827529,
+    "lon": 14.3864480,
+    "tags": {
+      "name": "Akou-Akala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086390735,
+    "lat": 2.1072523,
+    "lon": 12.1878851,
+    "tags": {
+      "addr:city": "Minvoul",
+      "addr:province": "WOLEU NTEM",
+      "description": "Rencontre avec une civilisation très ancienne, complètement immergée dans la forêt équatoriale.",
+      "inscription": "Eco-village",
+      "name": "Doumassi",
+      "note": "Activités:\n- Danse Culturelle\n- Balade fluviale",
+      "operator": "L’association Edzengui",
+      "place": "village",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086390751,
+    "lat": 2.1186520,
+    "lon": 12.1295523,
+    "tags": {
+      "description": "Rencontre avec une civilisation très ancienne, complètement immergée dans la forêt équatoriale.",
+      "inscription": "Eco-village",
+      "name": "Bitouga",
+      "note": "Activités: \n- Danse culturelle \n- Balade fluviale \n- Apprentissage des plants médicinales",
+      "operator": "L’association Edzengui",
+      "place": "village",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086390934,
+    "lat": 2.2784195,
+    "lon": 12.0639059,
+    "tags": {
+      "name": "Nsak",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086390991,
+    "lat": 2.2082385,
+    "lon": 12.1216883,
+    "tags": {
+      "name": "Mindoumou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086391016,
+    "lat": 2.2227692,
+    "lon": 11.7410572,
+    "tags": {
+      "name": "Avelmang",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086391017,
+    "lat": 2.2313083,
+    "lon": 11.7502625,
+    "tags": {
+      "name": "Bikondom",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086391083,
+    "lat": 2.2839223,
+    "lon": 11.4513242,
+    "tags": {
+      "name": "Eboro",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8086391084,
+    "lat": 2.1771869,
+    "lon": 11.3638787,
+    "tags": {
+      "name": "Meyo-Kyé",
+      "name:es": "Meyo-Kié",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8096948112,
+    "lat": -0.1674384,
+    "lon": 13.7485013,
+    "tags": {
+      "name": "Ndjounou-Longa I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8096948113,
+    "lat": -0.1589546,
+    "lon": 13.7208679,
+    "tags": {
+      "name": "Makatamangoye I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8165022559,
+    "lat": -1.7060373,
+    "lon": 11.3628032,
+    "tags": {
+      "name": "Ekembélé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8165022562,
+    "lat": -1.9111105,
+    "lon": 11.1833688,
+    "tags": {
+      "name": "Mokabo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8165022576,
+    "lat": -1.4359619,
+    "lon": 11.5882700,
+    "tags": {
+      "name": "Massima",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8165022581,
+    "lat": -1.4930410,
+    "lon": 11.4761984,
+    "tags": {
+      "name": "Etéké",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8165208473,
+    "lat": -2.9123205,
+    "lon": 10.5014862,
+    "tags": {
+      "inscription": "Destination touristique",
+      "name": "Mouenda",
+      "note": "Activités:\n- Baignade\n- Pique nique\n- Randonnée pédestre\n- Pêche",
+      "openfire": "yes",
+      "place": "village",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8165208484,
+    "lat": -2.8952876,
+    "lon": 10.5020455,
+    "tags": {
+      "name": "Igotchi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8168095417,
+    "lat": -3.0497795,
+    "lon": 11.6493344,
+    "tags": {
+      "name": "Nzinga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8170290255,
+    "lat": -2.9290770,
+    "lon": 10.3571050,
+    "tags": {
+      "name": "Mbissi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8178022834,
+    "lat": -2.1157579,
+    "lon": 11.1767276,
+    "tags": {
+      "name": "Mbadi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8367625800,
+    "lat": -1.5087077,
+    "lon": 9.4633484,
+    "tags": {
+      "name": "Ikengué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401586469,
+    "lat": -1.4446195,
+    "lon": 9.2366052,
+    "tags": {
+      "name": "Koudakoua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401586474,
+    "lat": -1.5002053,
+    "lon": 9.2669919,
+    "tags": {
+      "name": "Arondoué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401586476,
+    "lat": -1.4488071,
+    "lon": 9.2947984,
+    "tags": {
+      "name": "Essogoué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401599267,
+    "lat": -1.3719462,
+    "lon": 9.0730132,
+    "tags": {
+      "name": "Oguendjo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401620051,
+    "lat": -1.2111015,
+    "lon": 9.0202126,
+    "tags": {
+      "name": "Achanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401620053,
+    "lat": -1.2523157,
+    "lon": 9.0361351,
+    "tags": {
+      "name": "Alembétogo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401637174,
+    "lat": -1.3630129,
+    "lon": 9.3496495,
+    "tags": {
+      "name": "Sambinanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401637222,
+    "lat": -1.3798471,
+    "lon": 9.3406910,
+    "tags": {
+      "name": "Madaganga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401666138,
+    "lat": -0.9270758,
+    "lon": 9.5402205,
+    "tags": {
+      "name": "Ikolié",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401666139,
+    "lat": -0.9148304,
+    "lon": 9.5525050,
+    "tags": {
+      "name": "Okolo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401666140,
+    "lat": -0.8980956,
+    "lon": 9.6157622,
+    "tags": {
+      "name": "Mboumba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401675919,
+    "lat": -0.9159568,
+    "lon": 9.5956993,
+    "tags": {
+      "name": "Esendé II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401675920,
+    "lat": -0.9188961,
+    "lon": 9.5969117,
+    "tags": {
+      "name": "Esendé I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401675921,
+    "lat": -0.9389082,
+    "lon": 9.6044970,
+    "tags": {
+      "name": "Ngoumbi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401675935,
+    "lat": -0.9161499,
+    "lon": 9.6178973,
+    "tags": {
+      "name": "Kazé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401712933,
+    "lat": -1.0970745,
+    "lon": 9.3692565,
+    "tags": {
+      "name": "Ngouaviri",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8401720028,
+    "lat": -0.9614088,
+    "lon": 9.1899884,
+    "tags": {
+      "name": "Bengué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407884329,
+    "lat": -1.0849021,
+    "lon": 9.2488628,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407884333,
+    "lat": -1.1032317,
+    "lon": 9.2718065,
+    "tags": {
+      "name": "Obando",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407895357,
+    "lat": -0.8410435,
+    "lon": 10.1826873,
+    "tags": {
+      "name": "Bordeaux",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407895368,
+    "lat": -0.8391755,
+    "lon": 10.1680157,
+    "tags": {
+      "name": "Ompomouéna",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407895375,
+    "lat": -0.8366129,
+    "lon": 10.1750028,
+    "tags": {
+      "name": "Saint Benoit",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407895382,
+    "lat": -0.7516488,
+    "lon": 10.2104308,
+    "tags": {
+      "name": "Junckville",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407935665,
+    "lat": -0.7033970,
+    "lon": 10.1859784,
+    "tags": {
+      "name": "N'Dong",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407935666,
+    "lat": -0.6984621,
+    "lon": 10.1891863,
+    "tags": {
+      "name": "Méléné",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8407935693,
+    "lat": -0.7412507,
+    "lon": 10.1071912,
+    "tags": {
+      "name": "Boualé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8408014616,
+    "lat": -0.9695481,
+    "lon": 9.6003932,
+    "tags": {
+      "name": "Doumba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8408041860,
+    "lat": -1.0991769,
+    "lon": 9.0438160,
+    "tags": {
+      "name": "Nganda",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8408148099,
+    "lat": -0.6892467,
+    "lon": 9.9784398,
+    "tags": {
+      "name": "Mandji",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8408171880,
+    "lat": -0.7508254,
+    "lon": 9.6974140,
+    "tags": {
+      "name": "Saint François",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8437480749,
+    "lat": 1.0070345,
+    "lon": 9.5931834,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8438445940,
+    "lat": 1.0036528,
+    "lon": 10.7608912,
+    "tags": {
+      "name": "Abogotom",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8440260196,
+    "lat": -1.5850908,
+    "lon": 14.2426126,
+    "tags": {
+      "name": "Abouyi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8440291476,
+    "lat": -1.4927631,
+    "lon": 14.4189873,
+    "tags": {
+      "name": "Edjangoulou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8464707169,
+    "lat": -1.9620446,
+    "lon": 11.4089108,
+    "tags": {
+      "name": "Bilengui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8464707232,
+    "lat": -2.1152313,
+    "lon": 11.5818840,
+    "tags": {
+      "name": "Mandji",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8464707265,
+    "lat": -2.1044642,
+    "lon": 11.5796051,
+    "tags": {
+      "name": "Dibouangui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8467216380,
+    "lat": -2.6565964,
+    "lon": 11.1170000,
+    "tags": {
+      "name": "Ndenguilila",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8502096760,
+    "lat": -0.5739493,
+    "lon": 13.8447795,
+    "tags": {
+      "name": "Ambinda",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8503687540,
+    "lat": -0.0133429,
+    "lon": 13.6640715,
+    "tags": {
+      "name": "Tébé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8503757922,
+    "lat": 0.6155975,
+    "lon": 12.9068077,
+    "tags": {
+      "name": "Messebe",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8510599040,
+    "lat": 0.0534498,
+    "lon": 12.3784250,
+    "tags": {
+      "name": "Massouna",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8515541468,
+    "lat": -1.8668675,
+    "lon": 13.9026690,
+    "tags": {
+      "name": "Kessala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8681129841,
+    "lat": -0.6753331,
+    "lon": 10.2657852,
+    "tags": {
+      "name": "Etougué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8722533533,
+    "lat": 1.0590785,
+    "lon": 9.6661924,
+    "tags": {
+      "name": "Boutika",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8809117504,
+    "lat": -1.8409497,
+    "lon": 11.4387900,
+    "tags": {
+      "name": "Egoumbi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8809419503,
+    "lat": 1.1360281,
+    "lon": 13.1085265,
+    "tags": {
+      "name": "Mayébout II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8809439122,
+    "lat": 1.2119012,
+    "lon": 13.1870186,
+    "tags": {
+      "name": "Mvadi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8878387247,
+    "lat": -2.7687695,
+    "lon": 10.3706549,
+    "tags": {
+      "name": "Cachimba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8893573555,
+    "lat": -2.2643978,
+    "lon": 11.0307819,
+    "tags": {
+      "name": "Moukoko Mbaka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8955428170,
+    "lat": -1.2602135,
+    "lon": 14.4371146,
+    "tags": {
+      "name": "Odjouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8955428175,
+    "lat": -0.8626885,
+    "lon": 14.1869263,
+    "tags": {
+      "name": "Ossiélé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8955428178,
+    "lat": -0.7467439,
+    "lon": 13.7756527,
+    "tags": {
+      "name": "Alanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8955428179,
+    "lat": -0.1087662,
+    "lon": 13.6998623,
+    "tags": {
+      "name": "Makatamangoye II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8955804850,
+    "lat": -0.4790879,
+    "lon": 14.1358549,
+    "tags": {
+      "name": "Obéli",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8955805055,
+    "lat": -0.5588236,
+    "lon": 14.2131560,
+    "tags": {
+      "name": "Omboye Frontière",
+      "name:en": "Omboye Frontier",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8969230366,
+    "lat": 2.2779630,
+    "lon": 11.5185803,
+    "tags": {
+      "name": "Essono",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8969230367,
+    "lat": 2.2399186,
+    "lon": 11.4942701,
+    "tags": {
+      "name": "Nkolmengboua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8995230459,
+    "lat": -1.6607252,
+    "lon": 11.7269004,
+    "tags": {
+      "name": "Poungui-Ibagha",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8995230484,
+    "lat": -1.6220885,
+    "lon": 11.6740058,
+    "tags": {
+      "name": "Moukabou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9005721636,
+    "lat": -1.9876339,
+    "lon": 12.9395870,
+    "tags": {
+      "name": "Lémanassa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9005721688,
+    "lat": -0.0312966,
+    "lon": 10.9995495,
+    "tags": {
+      "name": "Medoumane",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9005737726,
+    "lat": -2.0484203,
+    "lon": 12.9068627,
+    "tags": {
+      "name": "Lékoko-Village",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9005737749,
+    "lat": 0.4038140,
+    "lon": 9.8875248,
+    "tags": {
+      "name": "Kougouleu",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9005737786,
+    "lat": 1.8067652,
+    "lon": 11.4260817,
+    "tags": {
+      "name": "Akam Essatouk",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9006045725,
+    "lat": -2.0121445,
+    "lon": 11.9055945,
+    "tags": {
+      "name": "Lébéghé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9006045756,
+    "lat": -1.9945350,
+    "lon": 11.9122495,
+    "tags": {
+      "name": "Miyanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9017710961,
+    "lat": -0.7513492,
+    "lon": 13.5614427,
+    "tags": {
+      "name": "Mamidi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9017710962,
+    "lat": -0.7493501,
+    "lon": 13.5824186,
+    "tags": {
+      "name": "Mbabiri",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9017718202,
+    "lat": -0.7586838,
+    "lon": 12.9775168,
+    "tags": {
+      "name": "Ndangui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9017718214,
+    "lat": -0.7447728,
+    "lon": 12.9730598,
+    "tags": {
+      "name": "Bambidie",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9017718238,
+    "lat": -0.7738287,
+    "lon": 12.9063561,
+    "tags": {
+      "name": "Ndekabalandji",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9017718247,
+    "lat": -0.8116069,
+    "lon": 12.8002265,
+    "tags": {
+      "name": "Moubidou-Mouyabi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9037238068,
+    "lat": 1.0250641,
+    "lon": 11.6530126,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9037238431,
+    "lat": 0.9983750,
+    "lon": 11.6435632,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9037278574,
+    "lat": 1.0331041,
+    "lon": 11.4477995,
+    "tags": {
+      "name": "Ndongolo I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9037300580,
+    "lat": 0.8821169,
+    "lon": 11.5346199,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9037756691,
+    "lat": 0.7485511,
+    "lon": 11.5152007,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9037756692,
+    "lat": 0.7883541,
+    "lon": 11.5323320,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9037995404,
+    "lat": 0.8288595,
+    "lon": 11.4843097,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9038098195,
+    "lat": 0.9182150,
+    "lon": 11.3023996,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9038867415,
+    "lat": 1.0115909,
+    "lon": 11.3849392,
+    "tags": {
+      "name": "Abelassi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9038873346,
+    "lat": 1.0266062,
+    "lon": 11.4304456,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9038899318,
+    "lat": 1.0212641,
+    "lon": 11.4021993,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9039719145,
+    "lat": 0.9967712,
+    "lon": 11.3638276,
+    "tags": {
+      "fixme": "Missing name",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9039719146,
+    "lat": 1.0057472,
+    "lon": 11.3716248,
+    "tags": {
+      "fixme": "Missing name",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9039991507,
+    "lat": 0.9894553,
+    "lon": 11.2642211,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9039991512,
+    "lat": 0.9950603,
+    "lon": 11.2978667,
+    "tags": {
+      "fixme": "Missing name",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9040098233,
+    "lat": 0.9930301,
+    "lon": 11.2449548,
+    "tags": {
+      "fixme": "Missing name",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9040098234,
+    "lat": 0.9925340,
+    "lon": 11.2522799,
+    "tags": {
+      "fixme": "Missing name",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9040134185,
+    "lat": 0.9869397,
+    "lon": 11.2379971,
+    "tags": {
+      "fixme": "Missing name",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9040489476,
+    "lat": 0.9494129,
+    "lon": 11.1553448,
+    "tags": {
+      "fixme": "Missing name",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9041571748,
+    "lat": 1.0236053,
+    "lon": 10.8542991,
+    "tags": {
+      "name": "Égnieng Melen",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145001,
+    "lat": 0.3213524,
+    "lon": 12.1948577,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145002,
+    "lat": 0.5217978,
+    "lon": 12.4779394,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145004,
+    "lat": 0.5245925,
+    "lon": 12.4910554,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145005,
+    "lat": 0.5350768,
+    "lon": 12.5664926,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145006,
+    "lat": 0.5667469,
+    "lon": 12.6454407,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145007,
+    "lat": 0.5919852,
+    "lon": 12.9122937,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145011,
+    "lat": 0.5977516,
+    "lon": 12.9289126,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145012,
+    "lat": 0.6000099,
+    "lon": 12.9360205,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044145013,
+    "lat": 0.6028824,
+    "lon": 12.9392847,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148523,
+    "lat": 0.6158341,
+    "lon": 12.9497494,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148525,
+    "lat": 0.6205679,
+    "lon": 12.9710099,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148527,
+    "lat": 0.6415817,
+    "lon": 12.9909119,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148528,
+    "lat": 0.7018683,
+    "lon": 13.1068718,
+    "tags": {
+      "name": "La Sciérie",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148529,
+    "lat": 0.7116415,
+    "lon": 13.1323206,
+    "tags": {
+      "name": "Ngazi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148530,
+    "lat": 0.7633904,
+    "lon": 13.1361374,
+    "tags": {
+      "name": "Pont de la Zadié",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148531,
+    "lat": 0.7667027,
+    "lon": 13.1389081,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148532,
+    "lat": 0.7365143,
+    "lon": 13.1950575,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148533,
+    "lat": 0.7400889,
+    "lon": 13.1955542,
+    "tags": {
+      "name": "Massaha",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148534,
+    "lat": 0.7570207,
+    "lon": 13.2878566,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148535,
+    "lat": 0.8058217,
+    "lon": 13.4333396,
+    "tags": {
+      "name": "Batouala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148538,
+    "lat": 0.8423442,
+    "lon": 13.4974873,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148539,
+    "lat": 0.8467801,
+    "lon": 13.5050082,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148540,
+    "lat": 0.8469196,
+    "lon": 13.5146910,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148541,
+    "lat": 0.8476088,
+    "lon": 13.5200366,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148542,
+    "lat": 0.8481693,
+    "lon": 13.5246044,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148543,
+    "lat": 0.8482874,
+    "lon": 13.5286331,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148544,
+    "lat": 0.8529539,
+    "lon": 13.5676968,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148545,
+    "lat": 0.8781316,
+    "lon": 13.6135733,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148546,
+    "lat": 0.8735992,
+    "lon": 13.6502445,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148562,
+    "lat": 0.9181720,
+    "lon": 13.6966520,
+    "tags": {
+      "name": "Ikei Boca-Boca",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148563,
+    "lat": 0.9588182,
+    "lon": 13.7714910,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148564,
+    "lat": 0.9840166,
+    "lon": 13.9026833,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148565,
+    "lat": 1.0033899,
+    "lon": 13.9759451,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148566,
+    "lat": 1.0166138,
+    "lon": 13.9845711,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148567,
+    "lat": 1.0219157,
+    "lon": 13.9915314,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148568,
+    "lat": 1.0271640,
+    "lon": 13.9945033,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148569,
+    "lat": 1.0375666,
+    "lon": 13.9969683,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148570,
+    "lat": 1.0565481,
+    "lon": 14.0265906,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148571,
+    "lat": 1.0994451,
+    "lon": 14.0605903,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148572,
+    "lat": 1.1480964,
+    "lon": 14.1123784,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148573,
+    "lat": 1.2609173,
+    "lon": 14.1200548,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9044148574,
+    "lat": 1.3197125,
+    "lon": 14.0987420,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9045491308,
+    "lat": 0.2633246,
+    "lon": 13.4484391,
+    "tags": {
+      "name": "Zoolendé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9046380314,
+    "lat": 1.4730747,
+    "lon": 11.5898357,
+    "tags": {
+      "name": "Ebeigne",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9046386954,
+    "lat": 0.7155699,
+    "lon": 11.6274734,
+    "tags": {
+      "name": "Saint Germain",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047202062,
+    "lat": -1.3673455,
+    "lon": 14.1353567,
+    "tags": {
+      "name": "Ekalla II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047202065,
+    "lat": -0.5004602,
+    "lon": 13.1296998,
+    "tags": {
+      "name": "Popa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047202069,
+    "lat": -0.4953730,
+    "lon": 13.1155570,
+    "tags": {
+      "name": "Venez-Voir",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047202071,
+    "lat": -0.5014211,
+    "lon": 13.0969925,
+    "tags": {
+      "name": "Ndangui-Chute",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047202084,
+    "lat": -0.6665550,
+    "lon": 12.9385912,
+    "tags": {
+      "name": "Mbelatamanene",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047218227,
+    "lat": -0.6067927,
+    "lon": 12.9226300,
+    "tags": {
+      "name": "Akiéni",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047218250,
+    "lat": -0.5211150,
+    "lon": 13.0270073,
+    "tags": {
+      "name": "Iwembe",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047345154,
+    "lat": 0.5582769,
+    "lon": 12.6173499,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356056,
+    "lat": 0.5793231,
+    "lon": 12.6889944,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356059,
+    "lat": 0.5945224,
+    "lon": 12.7188152,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356060,
+    "lat": 0.5791166,
+    "lon": 12.7469677,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356061,
+    "lat": 0.5747019,
+    "lon": 12.7602124,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356062,
+    "lat": 0.5742513,
+    "lon": 12.7748787,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356063,
+    "lat": 0.5698742,
+    "lon": 12.7832794,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356065,
+    "lat": 0.5699547,
+    "lon": 12.8003275,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047356066,
+    "lat": 0.5585129,
+    "lon": 12.8128695,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9047386216,
+    "lat": 0.5044339,
+    "lon": 12.4550924,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048048942,
+    "lat": 0.4633305,
+    "lon": 12.3898074,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048159116,
+    "lat": 0.4486163,
+    "lon": 12.3697203,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048254253,
+    "lat": 0.4247400,
+    "lon": 12.3015118,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048254254,
+    "lat": 0.4189064,
+    "lon": 12.2663990,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048288533,
+    "lat": 0.3330427,
+    "lon": 12.1977478,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048331745,
+    "lat": 0.3111615,
+    "lon": 12.1912998,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048493616,
+    "lat": 0.3167673,
+    "lon": 12.1657303,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048543326,
+    "lat": 0.3248567,
+    "lon": 12.1532929,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048761448,
+    "lat": 0.3287887,
+    "lon": 12.1438998,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048866988,
+    "lat": 0.2742575,
+    "lon": 11.9707525,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048884755,
+    "lat": 0.2772991,
+    "lon": 11.9677779,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048884968,
+    "lat": 0.2841172,
+    "lon": 11.9686067,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048884969,
+    "lat": 0.2868289,
+    "lon": 11.9685692,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048885044,
+    "lat": 0.2938079,
+    "lon": 11.9722545,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048885221,
+    "lat": 0.3316318,
+    "lon": 12.0314831,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9048885222,
+    "lat": 0.3400243,
+    "lon": 12.1049085,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9049229972,
+    "lat": 0.2754082,
+    "lon": 11.7154974,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9049229973,
+    "lat": 0.2847153,
+    "lon": 11.7088669,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9049239974,
+    "lat": 0.2927511,
+    "lon": 11.6987872,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9049273486,
+    "lat": 0.3168156,
+    "lon": 11.5471888,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9049293958,
+    "lat": 0.3152143,
+    "lon": 11.5497288,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9050306418,
+    "lat": 0.3258357,
+    "lon": 11.4806432,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9050306449,
+    "lat": 0.3301164,
+    "lon": 11.4846611,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9050306858,
+    "lat": 0.3223194,
+    "lon": 11.5401131,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9050330812,
+    "lat": 0.3270561,
+    "lon": 11.4566642,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9050330813,
+    "lat": 0.3278393,
+    "lon": 11.4544943,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9050917391,
+    "lat": 0.4757970,
+    "lon": 11.4679134,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051091408,
+    "lat": 0.5314962,
+    "lon": 11.4661860,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051091409,
+    "lat": 0.5241553,
+    "lon": 11.4648825,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051784591,
+    "lat": 0.0288713,
+    "lon": 11.0212451,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051791523,
+    "lat": 0.0523031,
+    "lon": 11.0310298,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051791974,
+    "lat": 0.0879872,
+    "lon": 11.0834348,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051792408,
+    "lat": 0.0928071,
+    "lon": 11.0862377,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051792565,
+    "lat": 0.1317768,
+    "lon": 11.1111206,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051792754,
+    "lat": 0.1535697,
+    "lon": 11.1254624,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051792998,
+    "lat": 0.1857319,
+    "lon": 11.1702579,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051792999,
+    "lat": 0.2232880,
+    "lon": 11.1961869,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051793000,
+    "lat": 0.2490155,
+    "lon": 11.2854937,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051899209,
+    "lat": 0.0127459,
+    "lon": 11.0149232,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9051902830,
+    "lat": 0.0132877,
+    "lon": 11.0180479,
+    "tags": {
+      "fixme": "nom ?",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053429112,
+    "lat": 1.7953217,
+    "lon": 11.7493334,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457829,
+    "lat": 1.6573847,
+    "lon": 11.6229290,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457831,
+    "lat": 1.6926675,
+    "lon": 11.6795075,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457832,
+    "lat": 1.6954182,
+    "lon": 11.6817552,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457833,
+    "lat": 1.6990055,
+    "lon": 11.6819858,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457834,
+    "lat": 1.7029198,
+    "lon": 11.6863418,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457845,
+    "lat": 1.7119065,
+    "lon": 11.6873556,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457846,
+    "lat": 1.7166734,
+    "lon": 11.6911644,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457851,
+    "lat": 1.7358049,
+    "lon": 11.7335647,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457852,
+    "lat": 1.7301749,
+    "lon": 11.7204890,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9053457864,
+    "lat": 1.7753543,
+    "lon": 11.7512941,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9054244443,
+    "lat": 0.5367136,
+    "lon": 12.9582440,
+    "tags": {
+      "name": "Etakanyabe",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9054244444,
+    "lat": 2.0973096,
+    "lon": 11.6748007,
+    "tags": {
+      "name": "Okok",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9054244445,
+    "lat": -1.7405027,
+    "lon": 9.9774986,
+    "tags": {
+      "name": "Carrefour Rabi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9054244481,
+    "lat": -1.7368040,
+    "lon": 9.9524656,
+    "tags": {
+      "name": "Petit Village",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9054387069,
+    "lat": 0.8667147,
+    "lon": 10.4929975,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9058170927,
+    "lat": -1.5053281,
+    "lon": 10.4872380,
+    "tags": {
+      "name": "Boungounga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9058170970,
+    "lat": -1.4728352,
+    "lon": 10.5407163,
+    "tags": {
+      "name": "Bemboudie",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9058170972,
+    "lat": -1.5280792,
+    "lon": 10.4082723,
+    "tags": {
+      "name": "Fanguindaka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9058170973,
+    "lat": -1.5520975,
+    "lon": 10.3694859,
+    "tags": {
+      "name": "Kili",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9058171049,
+    "lat": -1.6269879,
+    "lon": 10.3847946,
+    "tags": {
+      "name": "Kanana",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9058171260,
+    "lat": -2.0007961,
+    "lon": 10.4558524,
+    "tags": {
+      "name": "Péni 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9062678107,
+    "lat": -1.7412479,
+    "lon": 9.9094627,
+    "tags": {
+      "name": "Yeno",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9062819921,
+    "lat": -1.6071328,
+    "lon": 9.9280165,
+    "tags": {
+      "name": "Matsouka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9062819939,
+    "lat": -1.5669190,
+    "lon": 9.9971739,
+    "tags": {
+      "name": "Nzambinatsiengui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9062819980,
+    "lat": -1.5789845,
+    "lon": 9.9593032,
+    "tags": {
+      "name": "Fouanou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9062820031,
+    "lat": -1.6648795,
+    "lon": 9.8842820,
+    "tags": {
+      "name": "Moukouna",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9063177502,
+    "lat": 0.6974081,
+    "lon": 9.6394891,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9064279822,
+    "lat": 0.6477343,
+    "lon": 9.6534634,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9064279823,
+    "lat": 0.6510279,
+    "lon": 9.7102994,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9065303508,
+    "lat": 0.5423963,
+    "lon": 9.7273153,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9066267154,
+    "lat": 0.4554383,
+    "lon": 9.7212414,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9066268840,
+    "lat": 0.4407778,
+    "lon": 9.7815496,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9066268842,
+    "lat": 0.4345808,
+    "lon": 9.7796184,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9075854278,
+    "lat": -0.1096567,
+    "lon": 12.0063534,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9075854451,
+    "lat": -0.1032489,
+    "lon": 11.9699049,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9075854823,
+    "lat": -0.1217615,
+    "lon": 12.0462137,
+    "tags": {
+      "name": "Djandja",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9077071020,
+    "lat": -0.0971335,
+    "lon": 11.9527656,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9077972402,
+    "lat": -0.0909483,
+    "lon": 11.9419616,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9077972403,
+    "lat": -0.0984692,
+    "lon": 11.9380617,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9077972513,
+    "lat": -0.1063871,
+    "lon": 11.9529962,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9077972514,
+    "lat": -0.1106035,
+    "lon": 11.9423640,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9078947293,
+    "lat": 0.3447744,
+    "lon": 9.7569430,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9078947749,
+    "lat": 0.3233091,
+    "lon": 9.7250247,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9078948030,
+    "lat": 0.3215791,
+    "lon": 9.7245419,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9079430785,
+    "lat": 0.5258558,
+    "lon": 9.7358394,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9079430786,
+    "lat": 0.5213713,
+    "lon": 9.7387093,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9079430787,
+    "lat": 0.5077704,
+    "lon": 9.7355953,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9080309067,
+    "lat": 0.3048853,
+    "lon": 9.7776228,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9080309068,
+    "lat": 0.3089890,
+    "lon": 9.7708261,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9081760384,
+    "lat": -0.0138080,
+    "lon": 11.9073129,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9081760385,
+    "lat": -0.0201273,
+    "lon": 11.9104242,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9081765980,
+    "lat": -0.0500983,
+    "lon": 11.8734044,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9091462666,
+    "lat": -0.2657094,
+    "lon": 10.4093796,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9108779756,
+    "lat": -1.5160644,
+    "lon": 11.7289579,
+    "tags": {
+      "name": "Diyanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9108779767,
+    "lat": -1.4330092,
+    "lon": 11.9976446,
+    "tags": {
+      "name": "Moudouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9108779779,
+    "lat": -1.4226204,
+    "lon": 12.0997731,
+    "tags": {
+      "name": "Imeno Plateau",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9126710941,
+    "lat": -0.2743338,
+    "lon": 10.4805515,
+    "tags": {
+      "name": "Ebel Abanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130272910,
+    "lat": 0.5396072,
+    "lon": 12.8332619,
+    "tags": {
+      "name": "Edoung Avion",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341614,
+    "lat": -1.0628417,
+    "lon": 11.1891874,
+    "tags": {
+      "name": "Evouta 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341631,
+    "lat": -1.0271622,
+    "lon": 11.1353360,
+    "tags": {
+      "name": "Ghéghouba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341633,
+    "lat": -1.0432723,
+    "lon": 11.0944765,
+    "tags": {
+      "name": "Tchibanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341634,
+    "lat": -1.0410759,
+    "lon": 11.0779894,
+    "tags": {
+      "name": "Ossimba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341636,
+    "lat": -1.0398242,
+    "lon": 11.0623002,
+    "tags": {
+      "name": "Tranquille",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341637,
+    "lat": -0.9440570,
+    "lon": 10.7757468,
+    "tags": {
+      "name": "Nimbie 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341638,
+    "lat": -0.9508328,
+    "lon": 10.7614869,
+    "tags": {
+      "name": "Nimbie 2",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341639,
+    "lat": -1.0012814,
+    "lon": 10.6756186,
+    "tags": {
+      "name": "Matadi 7",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341686,
+    "lat": -1.0186636,
+    "lon": 10.6671441,
+    "tags": {
+      "name": "Song Sindara",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341741,
+    "lat": -1.0135145,
+    "lon": 10.6692905,
+    "tags": {
+      "name": "Eghono",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341849,
+    "lat": -0.6174837,
+    "lon": 10.3949277,
+    "tags": {
+      "name": "Bellevue 2",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341850,
+    "lat": -0.6113953,
+    "lon": 10.3920969,
+    "tags": {
+      "name": "Bellevue 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9130341876,
+    "lat": -0.5950180,
+    "lon": 10.3670783,
+    "tags": {
+      "name": "Nzamata (Camp AGROGABON)",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9135427461,
+    "lat": -1.2056940,
+    "lon": 12.0384622,
+    "tags": {
+      "name": "Divende",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9135427478,
+    "lat": -1.2249500,
+    "lon": 12.0891252,
+    "tags": {
+      "name": "Moukouagno 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9135427498,
+    "lat": -1.2692946,
+    "lon": 12.1322671,
+    "tags": {
+      "name": "Ndanda",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9135427499,
+    "lat": -1.3283777,
+    "lon": 12.1920229,
+    "tags": {
+      "name": "Mouila Pouvi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9135427500,
+    "lat": -1.3154189,
+    "lon": 12.2155533,
+    "tags": {
+      "name": "Dibouka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9135427501,
+    "lat": -1.0178896,
+    "lon": 11.2639648,
+    "tags": {
+      "name": "Makoko",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9240914534,
+    "lat": -3.3580193,
+    "lon": 10.7434201,
+    "tags": {
+      "name": "Doumvou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9240914535,
+    "lat": -3.3554767,
+    "lon": 10.6948934,
+    "tags": {
+      "name": "Bilanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9240914589,
+    "lat": -3.3884679,
+    "lon": 10.6785224,
+    "tags": {
+      "name": "Mangali",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9240917406,
+    "lat": -3.4465026,
+    "lon": 10.6947225,
+    "tags": {
+      "name": "Mpila-Koumbi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9240917442,
+    "lat": -3.6365408,
+    "lon": 10.9533586,
+    "tags": {
+      "name": "Rina Nzala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9240917456,
+    "lat": -3.6596574,
+    "lon": 10.9728937,
+    "tags": {
+      "name": "Tiya",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9341257218,
+    "lat": 1.5668138,
+    "lon": 11.5163169,
+    "tags": {
+      "name": "Zogongone",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9341257219,
+    "lat": 1.5799927,
+    "lon": 11.4906833,
+    "tags": {
+      "name": "Afenan II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9341257221,
+    "lat": 1.9807637,
+    "lon": 11.4191452,
+    "tags": {
+      "name": "Effak Bibeigne I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9341257223,
+    "lat": 1.7173024,
+    "lon": 11.5730351,
+    "tags": {
+      "name": "Obout",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198124,
+    "lat": 2.1333283,
+    "lon": 11.3654063,
+    "tags": {
+      "name": "Nsimi Esseng",
+      "name:fr": "Nsimi Esseng",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198125,
+    "lat": 2.1131236,
+    "lon": 11.3599542,
+    "tags": {
+      "name": "Tho Esseng",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198128,
+    "lat": 1.9459488,
+    "lon": 11.3498287,
+    "tags": {
+      "name": "Fong Essandone I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198129,
+    "lat": 1.9471563,
+    "lon": 11.3458012,
+    "tags": {
+      "name": "Fong Essandone II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198130,
+    "lat": 1.8993883,
+    "lon": 11.3843887,
+    "tags": {
+      "name": "Ekolayop Essabeigne",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198132,
+    "lat": 2.2692805,
+    "lon": 11.3897023,
+    "tags": {
+      "name": "Akamsi-Effak",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198133,
+    "lat": 2.2244513,
+    "lon": 11.3664752,
+    "tags": {
+      "name": "Alene Effak",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198134,
+    "lat": 1.7422099,
+    "lon": 11.4065747,
+    "tags": {
+      "name": "Nkoum Nkondjé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198137,
+    "lat": 1.8335372,
+    "lon": 11.4047910,
+    "tags": {
+      "name": "Mvane III",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198149,
+    "lat": 1.8642755,
+    "lon": 11.4043081,
+    "tags": {
+      "name": "Mvane I",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9349198154,
+    "lat": 1.9168789,
+    "lon": 11.4401847,
+    "tags": {
+      "name": "Ngozo Essabeigne",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9415590052,
+    "lat": -1.6983770,
+    "lon": 12.1075707,
+    "tags": {
+      "name": "Moupata",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9415590107,
+    "lat": -1.8225746,
+    "lon": 11.9087811,
+    "tags": {
+      "name": "Ndongui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9425008174,
+    "lat": -1.4726670,
+    "lon": 11.8519150,
+    "tags": {
+      "name": "Moukandi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9425020618,
+    "lat": -1.4503713,
+    "lon": 11.9334042,
+    "tags": {
+      "name": "Boulembou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9425020619,
+    "lat": -1.4557341,
+    "lon": 11.8883882,
+    "tags": {
+      "name": "Mounongo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426676206,
+    "lat": -2.0361729,
+    "lon": 11.6239774,
+    "tags": {
+      "name": "Makongonio",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426676209,
+    "lat": -1.9275038,
+    "lon": 11.7852039,
+    "tags": {
+      "name": "Mayani",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426676210,
+    "lat": -2.1853805,
+    "lon": 11.5735146,
+    "tags": {
+      "name": "Moukoundou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426693249,
+    "lat": -2.0086801,
+    "lon": 11.6661009,
+    "tags": {
+      "name": "Issala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426693435,
+    "lat": -1.6957443,
+    "lon": 11.8441895,
+    "tags": {
+      "name": "Imenou-Mbila",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426693436,
+    "lat": -1.7765643,
+    "lon": 11.8382276,
+    "tags": {
+      "name": "Imenou-Nzinga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426693438,
+    "lat": -1.6719843,
+    "lon": 11.8351857,
+    "tags": {
+      "name": "Dibassa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426693488,
+    "lat": -1.5928666,
+    "lon": 11.7295794,
+    "tags": {
+      "name": "Dibandi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426693516,
+    "lat": -1.1302589,
+    "lon": 11.8317095,
+    "tags": {
+      "name": "Diangui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426693517,
+    "lat": -1.2423947,
+    "lon": 11.8895319,
+    "tags": {
+      "name": "Iwatsi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426865448,
+    "lat": 2.1669655,
+    "lon": 12.0613928,
+    "tags": {
+      "name": "Ebomane",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426885724,
+    "lat": 1.5897249,
+    "lon": 11.9717688,
+    "tags": {
+      "name": "Ntournessol",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426885752,
+    "lat": -1.6917367,
+    "lon": 13.6763764,
+    "tags": {
+      "name": "Bignomi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426885764,
+    "lat": -1.7383799,
+    "lon": 13.7354189,
+    "tags": {
+      "name": "Ndjokaye",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426885777,
+    "lat": -1.7502851,
+    "lon": 13.7508281,
+    "tags": {
+      "name": "Bangoué-Ville",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426885800,
+    "lat": -1.7686594,
+    "lon": 13.7755215,
+    "tags": {
+      "name": "Youlou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426885829,
+    "lat": -1.7947634,
+    "lon": 13.8321288,
+    "tags": {
+      "name": "Onkoua",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9426885857,
+    "lat": -1.8398808,
+    "lon": 14.0185036,
+    "tags": {
+      "name": "Kébiri",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9434286464,
+    "lat": -2.0435882,
+    "lon": 12.1515846,
+    "tags": {
+      "name": "Mambonga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9434286536,
+    "lat": -2.0375364,
+    "lon": 12.1682253,
+    "tags": {
+      "name": "Moukoumbi 2",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9434286561,
+    "lat": -2.0481765,
+    "lon": 12.1453089,
+    "tags": {
+      "name": "Mayigha Lembe",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9434286676,
+    "lat": -2.0842871,
+    "lon": 12.1341443,
+    "tags": {
+      "name": "Baposso",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9434286800,
+    "lat": -2.3105402,
+    "lon": 12.2306098,
+    "tags": {
+      "name": "Moukouagna",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9434465279,
+    "lat": -1.3665430,
+    "lon": 13.9156160,
+    "tags": {
+      "name": "Kabaga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9434493825,
+    "lat": -1.2122328,
+    "lon": 13.8949253,
+    "tags": {
+      "name": "Kassiele",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9441911252,
+    "lat": 0.3355639,
+    "lon": 9.6719840,
+    "tags": {
+      "name": "La Plaine Akanabour",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9441911347,
+    "lat": 0.3160967,
+    "lon": 9.6762407,
+    "tags": {
+      "name": "Ayémé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9446059470,
+    "lat": -1.3975067,
+    "lon": 12.1582721,
+    "tags": {
+      "name": "Boudianguila",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9446059496,
+    "lat": -1.3883889,
+    "lon": 12.1511222,
+    "tags": {
+      "name": "Moughounda",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9446059538,
+    "lat": -1.2829016,
+    "lon": 12.2904189,
+    "tags": {
+      "name": "Ndjolé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9455565951,
+    "lat": 0.9986002,
+    "lon": 9.9992108,
+    "tags": {
+      "name": "Eloun",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9458218260,
+    "lat": -3.2162657,
+    "lon": 11.2707618,
+    "tags": {
+      "name": "Bayadi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9620818746,
+    "lat": -0.3696821,
+    "lon": 11.7867373,
+    "tags": {
+      "name": "Ramba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9620818774,
+    "lat": -0.3223145,
+    "lon": 11.7563212,
+    "tags": {
+      "name": "Mikongo II",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9698460672,
+    "lat": 0.4301583,
+    "lon": 9.9722051,
+    "tags": {
+      "name": "Ayémé Agoula",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9698460673,
+    "lat": 0.3045476,
+    "lon": 10.0299307,
+    "tags": {
+      "name": "Ndouanieng",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727026076,
+    "lat": -2.3330368,
+    "lon": 11.4892182,
+    "tags": {
+      "name": "Ichinga 2",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041158,
+    "lat": -2.3298280,
+    "lon": 11.4770874,
+    "tags": {
+      "name": "Ichinga 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041178,
+    "lat": -2.3098999,
+    "lon": 11.4283965,
+    "tags": {
+      "name": "Mourembou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041223,
+    "lat": -2.4452467,
+    "lon": 12.1718890,
+    "tags": {
+      "name": "Longo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041441,
+    "lat": -2.2810228,
+    "lon": 11.6029249,
+    "tags": {
+      "name": "Mabanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041442,
+    "lat": -2.3472578,
+    "lon": 11.5978586,
+    "tags": {
+      "name": "Mbelenaletembe",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041443,
+    "lat": -2.3524537,
+    "lon": 11.6423640,
+    "tags": {
+      "name": "Nzingui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041454,
+    "lat": -2.3441614,
+    "lon": 11.6686827,
+    "tags": {
+      "name": "Mbinambi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9727041500,
+    "lat": -2.2909774,
+    "lon": 11.4875363,
+    "tags": {
+      "name": "Nzoundou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9839879655,
+    "lat": -0.9061408,
+    "lon": 12.7946490,
+    "tags": {
+      "name": "Kessipoughou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9839880019,
+    "lat": -1.7744821,
+    "lon": 13.0377399,
+    "tags": {
+      "name": "Mipoundi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9942699307,
+    "lat": -0.2946905,
+    "lon": 10.5160890,
+    "tags": {
+      "name": "Maléba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9942699309,
+    "lat": -0.3044569,
+    "lon": 10.4947412,
+    "tags": {
+      "name": "Mbilanten",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9990460523,
+    "lat": -0.9078239,
+    "lon": 10.1780744,
+    "tags": {
+      "name": "Mvamzaman",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9990460576,
+    "lat": -0.9808922,
+    "lon": 10.0660844,
+    "tags": {
+      "name": "Negue Ntogolo",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10682267714,
+    "lat": -1.6020191,
+    "lon": 9.4282582,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10703920561,
+    "lat": -0.1026216,
+    "lon": 11.7886087,
+    "tags": {
+      "name": "Baka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10703922119,
+    "lat": -0.1199988,
+    "lon": 11.6965315,
+    "tags": {
+      "name": "Kazamabika",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10703925806,
+    "lat": -0.1627790,
+    "lon": 11.7487492,
+    "tags": {
+      "inscription": "Destination touristique",
+      "name": "Makogué",
+      "note": "Activités: - Pêche touristique - Randonnée pédestre - Excursion en pirogue - Excursions forestières - Danses traditionnellles",
+      "operator": "Association Mogheso",
+      "place": "village",
+      "reservation": "recommended",
+      "tourism": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10711367665,
+    "lat": 0.3239474,
+    "lon": 11.4142236,
+    "tags": {
+      "name": "Viafé",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10712372888,
+    "lat": 1.2920658,
+    "lon": 11.6837576,
+    "tags": {
+      "name": "Mimbeng 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10727868802,
+    "lat": 0.1475052,
+    "lon": 9.3591775,
+    "tags": {
+      "name": "Elone",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10727878690,
+    "lat": 0.0289520,
+    "lon": 9.4654980,
+    "tags": {
+      "name": "Bissobinam",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10727897822,
+    "lat": 0.1153932,
+    "lon": 9.4180536,
+    "tags": {
+      "name": "Obeloville",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10727897918,
+    "lat": 0.0900754,
+    "lon": 9.4246559,
+    "tags": {
+      "name": "Oveng",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10727900239,
+    "lat": 0.0811929,
+    "lon": 9.4206123,
+    "tags": {
+      "name": "Alarmeke",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10727901816,
+    "lat": 0.0705526,
+    "lon": 9.4258432,
+    "tags": {
+      "name": "Matec Mavic",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10727908094,
+    "lat": 0.1340436,
+    "lon": 9.4231653,
+    "tags": {
+      "name": "Ayeme",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10752730139,
+    "lat": 0.9793583,
+    "lon": 10.9555846,
+    "tags": {
+      "name": "Oboui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10771181665,
+    "lat": -0.8251262,
+    "lon": 10.1191699,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10780629507,
+    "lat": -0.7039549,
+    "lon": 9.7366762,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10827468935,
+    "lat": 1.6208573,
+    "lon": 11.3340926,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001156,
+    "lat": 2.0791836,
+    "lon": 11.4470512,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001157,
+    "lat": 2.0755864,
+    "lon": 11.4324331,
+    "tags": {
+      "name": "Adzap Essatop",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001158,
+    "lat": 2.0816549,
+    "lon": 11.4202666,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001159,
+    "lat": 2.0543785,
+    "lon": 11.3978863,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001160,
+    "lat": 2.0616534,
+    "lon": 11.4032990,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001161,
+    "lat": 2.0527971,
+    "lon": 11.3878924,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001162,
+    "lat": 2.0605222,
+    "lon": 11.3702273,
+    "tags": {
+      "name": "Melen III",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001163,
+    "lat": 2.0703702,
+    "lon": 11.3704795,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001164,
+    "lat": 2.0718338,
+    "lon": 11.3633180,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829001165,
+    "lat": 2.0987668,
+    "lon": 11.3531792,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10829023869,
+    "lat": 1.8295457,
+    "lon": 11.3961911,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10864966593,
+    "lat": 2.1598950,
+    "lon": 11.3879299,
+    "tags": {
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10967429110,
+    "lat": 0.0080474,
+    "lon": 9.5547447,
+    "tags": {
+      "name": "Nkonga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10968195003,
+    "lat": 0.0836326,
+    "lon": 9.8942041,
+    "tags": {
+      "name": "Basile",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10968208883,
+    "lat": 0.1397787,
+    "lon": 9.4980068,
+    "tags": {
+      "name": "Atone Simba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10968213007,
+    "lat": -0.0030778,
+    "lon": 9.8827338,
+    "tags": {
+      "name": "Mvong Ayong",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10969119346,
+    "lat": 0.3256752,
+    "lon": 9.3156247,
+    "tags": {
+      "name": "Ekwata village",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007144246,
+    "lat": -0.7747006,
+    "lon": 12.8957882,
+    "tags": {
+      "name": "Bakoussou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007147850,
+    "lat": -1.1231695,
+    "lon": 12.8994064,
+    "tags": {
+      "name": "Moukoumbi",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007147851,
+    "lat": -1.3033102,
+    "lon": 13.0820732,
+    "tags": {
+      "name": "Mandjaye",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007147852,
+    "lat": -1.1390860,
+    "lon": 12.9493914,
+    "tags": {
+      "name": "Boundjoukou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007150982,
+    "lat": -0.7550944,
+    "lon": 12.9391489,
+    "tags": {
+      "name": "Kokomounguele",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007157681,
+    "lat": -1.0341583,
+    "lon": 12.8661013,
+    "tags": {
+      "name": "Tsaty",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007159178,
+    "lat": -1.2821558,
+    "lon": 13.0284548,
+    "tags": {
+      "name": "Tsotanzala",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007160192,
+    "lat": -0.8010013,
+    "lon": 12.7867012,
+    "tags": {
+      "name": "Lingara",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007160193,
+    "lat": -0.7590301,
+    "lon": 12.9831390,
+    "tags": {
+      "name": "Moumba",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007160195,
+    "lat": -1.1250509,
+    "lon": 12.9138203,
+    "tags": {
+      "name": "Libongui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007162243,
+    "lat": -0.8067728,
+    "lon": 12.7928982,
+    "tags": {
+      "name": "Souaka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007162694,
+    "lat": -0.7723725,
+    "lon": 12.9148703,
+    "tags": {
+      "name": "Siamangouandza",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007162695,
+    "lat": -0.8613152,
+    "lon": 12.6763430,
+    "tags": {
+      "name": "Maghoya",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007166853,
+    "lat": -0.8116553,
+    "lon": 12.8066645,
+    "tags": {
+      "name": "Ndjokonamoye",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007166854,
+    "lat": -0.8721757,
+    "lon": 12.7319288,
+    "tags": {
+      "name": "Tsengue Moupinda",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007166855,
+    "lat": -1.1838671,
+    "lon": 12.9651070,
+    "tags": {
+      "name": "Idiba Bambera",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007166856,
+    "lat": -1.3024724,
+    "lon": 13.0676508,
+    "tags": {
+      "name": "Mafoungui",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007169628,
+    "lat": -0.8156207,
+    "lon": 12.8045988,
+    "tags": {
+      "name": "Missengué",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007169871,
+    "lat": -1.1956098,
+    "lon": 12.9709911,
+    "tags": {
+      "name": "Miloba-Likéka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007170680,
+    "lat": -1.0242743,
+    "lon": 12.8360538,
+    "tags": {
+      "name": "Lipaka 2",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007171962,
+    "lat": -0.9615068,
+    "lon": 12.8108492,
+    "tags": {
+      "name": "Bembicani",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007176498,
+    "lat": -1.0393089,
+    "lon": 12.8771191,
+    "tags": {
+      "name": "Manamana",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007177304,
+    "lat": -0.7564267,
+    "lon": 12.9377899,
+    "tags": {
+      "name": "Imono",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007178144,
+    "lat": -0.7817629,
+    "lon": 12.8655100,
+    "tags": {
+      "name": "Mekouka",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007178970,
+    "lat": -0.8138491,
+    "lon": 12.8142691,
+    "tags": {
+      "inscription": "Département Mulundu, Canton Ogooué Amont",
+      "name": "Bassegha",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007178971,
+    "lat": -1.1729099,
+    "lon": 12.9612370,
+    "tags": {
+      "name": "Vouvou",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007180406,
+    "lat": -0.9066162,
+    "lon": 12.7573128,
+    "tags": {
+      "name": "Mikouma",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007181205,
+    "lat": -0.8274227,
+    "lon": 12.8970575,
+    "tags": {
+      "name": "Mivengue",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11007181206,
+    "lat": -1.2440490,
+    "lon": 12.9983749,
+    "tags": {
+      "name": "Matsatsa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11028552887,
+    "lat": -0.6891201,
+    "lon": 9.1256971,
+    "tags": {
+      "name": "Iguendja",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11028554185,
+    "lat": -0.7123357,
+    "lon": 9.1487989,
+    "tags": {
+      "name": "Mporaloko",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11061139369,
+    "lat": -0.3452833,
+    "lon": 9.3050976,
+    "tags": {
+      "name": "Batanga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11061143989,
+    "lat": -0.7116818,
+    "lon": 9.1588259,
+    "tags": {
+      "name": "Emanagouga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11061148746,
+    "lat": -0.7278427,
+    "lon": 9.1415148,
+    "tags": {
+      "name": "Ekwa",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11061173512,
+    "lat": -0.2006489,
+    "lon": 9.3126488,
+    "tags": {
+      "name": "Ekwata",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11061173513,
+    "lat": -0.7910809,
+    "lon": 9.1646395,
+    "tags": {
+      "name": "Saint Pierre",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11061174118,
+    "lat": -0.9205686,
+    "lon": 9.4667101,
+    "tags": {
+      "name": "Abélogo 1",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11067339956,
+    "lat": -1.4967759,
+    "lon": 13.7968379,
+    "tags": {
+      "name": "Lekei",
+      "place": "village",
+      "source": "Wikipedia commons Topographic map of Gabon-fr.svg"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11085847559,
+    "lat": 1.1584307,
+    "lon": 11.7026248,
+    "tags": {
+      "name": "Enieng",
+      "place": "village",
+      "ref": "TPC L-3D"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11586972264,
+    "lat": -3.2279282,
+    "lon": 10.5575556,
+    "tags": {
+      "name": "Panga",
+      "place": "village"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12162294097,
+    "lat": 0.3458147,
+    "lon": 9.4920479,
+    "tags": {
+      "name": "Camp de Police-Akournam",
+      "place": "city_block"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12265423644,
+    "lat": 0.4948951,
+    "lon": 9.3935938,
+    "tags": {
+      "name": "Akanda",
+      "place": "city",
+      "wikidata": "Q21294265",
+      "wikipedia": "fr:Akanda"
+    }
+  }
+  
+    ]
+  }
+  
